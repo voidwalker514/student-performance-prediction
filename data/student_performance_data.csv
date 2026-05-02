@@ -1,0 +1,2001 @@
+Student_ID,Gender,Parent_Education,Study_Hours_Per_Week,Attendance_Percentage,Assignments_Completed,Extracurricular_Activities,Quiz_Scores_Avg,Performance_Class
+1,Male,High School,17.3,64.6,8,1,56.0,High
+2,Female,Bachelor,15.1,85.5,5,1,59.8,Medium
+3,Male,Master,15.4,82.5,6,1,60.9,High
+4,Male,Bachelor,5.2,68.3,6,1,43.1,Medium
+5,Male,Master,18.1,89.0,3,1,68.2,Medium
+6,Female,Bachelor,13.3,92.2,3,0,57.8,Medium
+7,Male,Bachelor,10.2,87.3,3,0,49.5,Medium
+8,Male,Master,12.7,81.8,10,1,52.4,Medium
+9,Male,High School,3.1,90.9,4,0,39.7,Low
+10,Female,Bachelor,14.0,91.8,4,1,63.4,Medium
+11,Male,High School,6.9,88.1,7,0,48.4,Medium
+12,Male,PhD,5.2,76.8,8,1,36.7,Medium
+13,Male,Master,4.4,87.8,1,0,48.3,Low
+14,Male,High School,17.6,97.0,10,0,63.7,High
+15,Female,Bachelor,8.9,79.0,6,0,40.2,Medium
+16,Male,Master,19.7,100.0,0,1,69.4,Medium
+17,Female,High School,9.3,79.7,0,1,41.8,Low
+18,Female,Bachelor,3.5,85.3,3,0,44.0,Low
+19,Female,Master,6.4,78.3,9,1,36.7,Low
+20,Male,High School,18.2,87.2,6,0,61.6,High
+21,Female,Bachelor,11.2,67.6,1,0,48.6,Low
+22,Male,High School,9.3,79.5,10,0,42.1,Medium
+23,Female,Master,12.8,74.1,1,0,50.9,Medium
+24,Female,PhD,14.5,86.4,0,0,51.4,Medium
+25,Female,Master,17.6,94.9,9,0,65.6,High
+26,Female,Bachelor,19.2,91.5,1,1,68.3,High
+27,Female,Master,10.2,61.3,6,1,39.6,Medium
+28,Female,Master,5.4,100.0,8,0,48.2,Medium
+29,Female,High School,9.9,88.0,5,0,52.3,Medium
+30,Female,Master,13.3,77.2,9,0,49.4,Medium
+31,Male,High School,7.2,86.6,1,0,49.8,Low
+32,Male,Bachelor,7.2,86.8,9,0,52.4,Medium
+33,Female,High School,13.7,78.3,9,0,47.3,High
+34,Female,High School,11.8,87.0,8,1,61.3,Medium
+35,Female,High School,12.2,78.9,6,1,48.3,Medium
+36,Male,Bachelor,8.2,81.0,10,0,54.7,Medium
+37,Female,High School,10.8,78.1,0,0,46.1,Low
+38,Male,Bachelor,7.4,70.7,8,0,42.9,Medium
+39,Male,High School,16.5,86.5,1,1,62.8,Medium
+40,Male,High School,17.2,90.9,3,0,60.2,Medium
+41,Male,Bachelor,2.8,90.1,8,0,40.6,Medium
+42,Male,Bachelor,7.4,93.2,3,1,55.5,Medium
+43,Female,High School,4.5,88.2,2,0,40.5,Low
+44,Female,Bachelor,8.7,79.7,0,0,42.9,Medium
+45,Female,Master,11.6,93.4,6,0,49.0,Medium
+46,Female,Bachelor,4.8,71.4,5,0,43.5,Low
+47,Female,High School,7.4,76.0,9,0,39.1,Medium
+48,Male,High School,7.0,75.4,3,0,46.6,Low
+49,Female,Master,13.0,95.8,5,0,54.9,Medium
+50,Female,High School,12.3,94.4,5,0,62.1,High
+51,Male,Master,8.4,89.9,3,1,52.6,Medium
+52,Female,Bachelor,12.9,95.7,5,0,56.5,Medium
+53,Male,Master,9.3,76.2,9,0,40.7,Medium
+54,Female,Bachelor,10.6,88.5,10,1,48.1,Medium
+55,Male,PhD,20.4,83.7,7,1,60.7,High
+56,Female,High School,18.7,93.5,2,1,70.8,High
+57,Female,Bachelor,5.5,83.8,3,0,42.6,Low
+58,Male,Bachelor,16.1,81.2,9,0,51.1,High
+59,Male,Bachelor,16.1,90.4,0,1,59.0,Medium
+60,Male,Bachelor,6.3,93.8,3,1,46.2,Medium
+61,Male,Master,16.1,78.3,10,0,44.8,High
+62,Male,PhD,19.7,84.4,9,1,62.3,High
+63,Male,Bachelor,6.4,74.4,9,0,43.0,Medium
+64,Male,Bachelor,7.4,60.0,8,1,34.4,Medium
+65,Male,Bachelor,17.1,87.0,7,1,61.7,High
+66,Female,Bachelor,13.4,91.1,10,1,58.9,High
+67,Female,High School,14.8,87.6,3,1,55.5,Medium
+68,Male,High School,13.7,65.5,6,1,50.4,Medium
+69,Female,High School,14.0,81.5,9,0,60.8,High
+70,Female,High School,5.4,62.8,2,0,25.6,Low
+71,Female,High School,17.2,98.7,8,0,63.6,High
+72,Female,High School,17.8,74.1,9,0,68.1,High
+73,Male,High School,10.9,97.6,3,1,56.2,Medium
+74,Female,High School,11.8,94.5,1,0,55.3,Medium
+75,Male,PhD,4.3,76.0,9,0,35.6,Medium
+76,Female,Bachelor,14.6,73.7,4,0,57.7,Medium
+77,Female,High School,14.9,88.5,1,1,53.0,Medium
+78,Female,Bachelor,11.7,76.6,9,0,52.8,Medium
+79,Male,High School,17.6,86.0,5,0,59.5,Medium
+80,Female,Master,10.3,80.2,10,0,43.8,Medium
+81,Male,Bachelor,14.8,67.2,9,1,48.0,Medium
+82,Female,High School,6.9,62.7,0,0,35.2,Low
+83,Male,Bachelor,11.9,87.3,5,1,50.2,Medium
+84,Female,Master,11.1,79.4,3,0,54.0,Medium
+85,Male,Master,13.1,79.5,2,0,47.8,Medium
+86,Male,Bachelor,10.2,92.0,1,1,52.7,Low
+87,Female,Bachelor,11.3,96.7,6,0,58.4,Medium
+88,Male,High School,16.1,82.3,8,0,57.8,High
+89,Female,PhD,9.8,81.6,2,0,51.2,Low
+90,Female,High School,4.0,90.0,5,0,39.8,Low
+91,Female,Master,20.7,71.4,8,0,62.8,High
+92,Female,Bachelor,18.9,87.2,1,0,66.5,Medium
+93,Female,Bachelor,5.5,90.5,6,0,49.4,Medium
+94,Female,Bachelor,15.4,91.8,4,0,50.5,Medium
+95,Female,High School,9.5,65.6,4,1,43.0,Medium
+96,Female,High School,13.3,77.4,10,1,55.4,High
+97,Female,High School,13.5,76.2,6,0,48.6,Medium
+98,Female,High School,10.8,86.0,8,0,47.9,Medium
+99,Female,Bachelor,8.1,89.8,3,0,44.5,Low
+100,Male,High School,8.5,100.0,8,0,47.6,Medium
+101,Male,High School,7.4,80.1,10,0,46.5,Medium
+102,Female,PhD,7.8,80.0,9,0,55.2,Medium
+103,Female,Master,11.7,96.5,8,0,53.3,Medium
+104,Female,Master,8.4,88.0,3,0,45.5,Medium
+105,Female,PhD,15.4,97.7,2,0,62.3,Medium
+106,Female,High School,19.4,87.9,1,1,56.3,Medium
+107,Female,High School,9.1,73.4,8,0,39.5,Medium
+108,Female,Bachelor,13.2,71.7,1,1,48.2,Medium
+109,Female,Bachelor,14.5,69.5,5,1,45.1,Medium
+110,Male,High School,14.4,91.6,4,0,64.2,Medium
+111,Female,Master,12.4,96.9,4,0,50.9,Medium
+112,Male,High School,15.7,100.0,3,0,68.1,Medium
+113,Female,High School,14.4,93.4,5,0,66.3,Medium
+114,Female,Bachelor,5.8,96.6,4,0,49.3,Medium
+115,Male,Bachelor,16.3,79.2,10,1,55.5,High
+116,Female,Bachelor,16.4,73.4,3,0,55.3,Medium
+117,Male,High School,8.2,93.5,8,0,47.5,Medium
+118,Female,Master,12.2,89.2,5,1,43.8,Medium
+119,Female,High School,15.4,86.1,10,1,52.7,High
+120,Male,High School,11.0,88.9,9,0,51.9,Medium
+121,Female,Master,17.4,88.2,9,1,56.6,High
+122,Male,PhD,23.8,97.8,9,0,72.8,High
+123,Female,Master,8.1,97.9,2,0,53.7,Medium
+124,Male,Master,5.1,90.4,9,0,44.5,Medium
+125,Male,Bachelor,13.5,93.5,5,0,63.0,High
+126,Female,Bachelor,15.6,90.1,0,1,60.9,Medium
+127,Female,High School,10.8,80.4,4,0,50.2,Medium
+128,Male,Bachelor,19.3,92.6,9,0,62.4,High
+129,Female,High School,5.3,71.1,5,0,29.7,Low
+130,Female,High School,15.5,95.5,10,0,59.3,High
+131,Female,Bachelor,9.0,73.1,7,0,39.0,Medium
+132,Male,Bachelor,20.6,87.9,10,0,65.2,High
+133,Male,High School,22.0,76.5,8,1,58.2,High
+134,Male,High School,8.2,90.5,10,0,52.7,Medium
+135,Male,Bachelor,9.3,84.7,2,0,44.1,Low
+136,Male,High School,16.3,69.1,1,0,50.2,Medium
+137,Male,Master,10.1,89.2,3,0,50.7,Medium
+138,Male,Bachelor,11.8,79.2,7,0,55.0,Medium
+139,Male,Bachelor,12.1,93.8,10,1,64.5,High
+140,Male,Bachelor,2.4,85.0,7,1,46.7,Medium
+141,Female,Master,11.9,89.0,2,0,47.1,Low
+142,Male,High School,8.6,75.4,3,0,41.1,Low
+143,Female,Bachelor,9.5,79.1,2,1,43.1,Low
+144,Female,Bachelor,19.2,80.4,9,0,62.8,High
+145,Female,High School,5.7,93.6,1,0,47.5,Low
+146,Male,Master,16.1,100.0,3,0,61.2,Medium
+147,Male,Bachelor,10.6,76.9,5,1,43.4,Medium
+148,Male,Bachelor,10.6,95.8,10,0,49.2,Medium
+149,Male,Master,16.0,63.3,10,1,36.0,Medium
+150,Female,Master,13.7,73.1,4,1,43.3,Medium
+151,Male,Bachelor,14.9,75.4,2,0,56.8,Medium
+152,Male,Master,16.8,71.5,1,1,61.2,Medium
+153,Male,Bachelor,10.3,69.2,8,1,49.9,Medium
+154,Male,Bachelor,8.9,89.1,0,0,53.6,Low
+155,Male,Bachelor,6.6,82.9,8,0,37.9,Medium
+156,Female,Bachelor,7.9,88.8,0,0,41.4,Low
+157,Male,High School,26.7,91.9,6,0,67.8,High
+158,Female,Master,18.2,87.7,5,0,59.5,High
+159,Male,Master,5.2,91.6,6,0,44.9,Medium
+160,Female,High School,5.4,84.3,2,0,36.8,Low
+161,Male,Master,14.4,73.1,2,1,53.0,Medium
+162,Male,High School,14.7,95.6,10,0,63.6,High
+163,Female,High School,14.7,79.1,0,0,51.4,Medium
+164,Female,Bachelor,10.7,75.6,3,0,39.6,Medium
+165,Female,High School,11.4,83.2,1,0,57.3,Medium
+166,Male,Master,13.6,75.9,9,0,51.0,Medium
+167,Female,Master,12.4,80.8,7,0,60.7,Medium
+168,Male,Bachelor,0.9,88.4,2,0,37.2,Low
+169,Male,High School,10.9,88.5,6,1,52.5,Medium
+170,Female,High School,7.7,76.0,6,1,37.2,Medium
+171,Female,Bachelor,12.9,80.1,8,0,49.2,Medium
+172,Male,PhD,26.9,95.7,5,1,70.9,High
+173,Male,Bachelor,13.8,90.0,0,1,50.0,Medium
+174,Female,High School,10.4,100.0,7,0,59.4,Medium
+175,Female,Bachelor,16.6,96.8,0,1,62.2,Medium
+176,Female,Bachelor,14.4,96.4,2,1,58.1,Medium
+177,Male,Bachelor,14.1,71.1,10,0,45.9,Medium
+178,Male,High School,15.0,92.6,4,0,57.7,Medium
+179,Male,Bachelor,22.3,84.5,7,0,72.9,High
+180,Male,Bachelor,6.3,79.5,8,0,42.0,Medium
+181,Male,PhD,14.4,86.7,6,1,50.3,Medium
+182,Male,High School,7.4,94.5,8,0,54.0,Medium
+183,Female,Bachelor,14.8,90.0,10,1,66.8,High
+184,Male,Master,7.4,76.2,2,1,44.1,Low
+185,Male,High School,9.9,92.4,4,1,56.3,Medium
+186,Male,Master,10.5,78.6,9,1,53.3,High
+187,Female,Bachelor,16.9,87.2,7,0,51.9,High
+188,Male,High School,16.6,82.0,0,0,67.0,Medium
+189,Male,High School,5.8,82.8,7,1,47.3,Medium
+190,Female,Bachelor,12.3,92.7,6,0,57.9,Medium
+191,Male,High School,8.5,74.6,0,0,41.9,Low
+192,Male,Bachelor,5.7,100.0,9,1,41.9,Medium
+193,Male,High School,10.9,66.8,9,1,41.4,Medium
+194,Male,Bachelor,10.5,79.0,5,0,49.5,Medium
+195,Male,High School,24.1,88.7,0,1,66.2,High
+196,Female,Master,14.2,90.8,1,1,57.2,Medium
+197,Female,PhD,5.1,84.0,4,0,35.3,Low
+198,Female,PhD,9.2,84.4,1,0,45.6,Low
+199,Male,Bachelor,17.1,89.1,9,1,54.5,High
+200,Male,High School,22.4,82.7,0,0,59.5,Medium
+201,Male,Bachelor,4.1,98.9,5,0,47.4,Medium
+202,Female,High School,2.6,93.4,7,0,38.4,Low
+203,Male,High School,21.4,93.7,7,1,67.1,High
+204,Male,High School,13.9,75.3,7,0,47.9,Medium
+205,Female,Bachelor,7.7,84.2,10,0,58.8,Medium
+206,Male,Bachelor,14.7,82.0,5,0,57.8,Medium
+207,Female,Bachelor,0.0,74.9,10,1,33.6,Medium
+208,Female,Bachelor,12.0,88.6,2,0,49.6,Medium
+209,Female,High School,13.6,79.6,0,0,54.8,Medium
+210,Male,PhD,16.6,91.6,1,1,60.4,Medium
+211,Male,Bachelor,6.9,74.3,4,0,36.2,Low
+212,Male,Bachelor,12.4,100.0,9,1,68.3,High
+213,Male,High School,7.4,76.0,4,1,44.3,Low
+214,Male,Bachelor,13.3,87.2,9,1,57.4,High
+215,Male,Bachelor,7.5,92.9,0,0,43.6,Low
+216,Male,High School,10.0,79.3,0,1,40.3,Low
+217,Female,High School,7.0,93.5,8,1,47.7,Medium
+218,Male,Bachelor,15.3,72.7,1,1,49.1,Medium
+219,Female,Bachelor,16.3,99.5,6,0,67.3,High
+220,Male,High School,10.8,85.1,9,1,53.7,Medium
+221,Male,PhD,12.2,79.0,3,0,50.2,Medium
+222,Male,High School,4.8,82.0,6,0,44.1,Low
+223,Female,Bachelor,10.5,93.1,7,0,54.0,Medium
+224,Female,Master,11.7,79.2,4,1,44.9,Medium
+225,Female,Bachelor,25.1,77.5,0,0,67.7,Medium
+226,Female,Bachelor,6.4,82.8,3,0,43.5,Low
+227,Male,High School,19.3,73.2,9,1,62.9,High
+228,Female,High School,17.0,100.0,2,0,66.6,Medium
+229,Male,PhD,13.4,79.3,9,1,49.0,Medium
+230,Male,Bachelor,20.8,93.3,4,0,73.3,High
+231,Female,Master,13.9,87.1,9,0,57.5,Medium
+232,Female,High School,13.9,75.2,9,1,58.7,Medium
+233,Female,High School,11.7,84.9,5,1,52.0,Medium
+234,Female,High School,18.1,92.8,1,0,59.1,Medium
+235,Female,Bachelor,17.5,83.1,6,1,65.4,High
+236,Female,High School,8.9,96.9,2,0,49.2,Medium
+237,Female,Master,5.4,95.2,0,0,47.7,Low
+238,Female,Bachelor,11.0,94.2,9,0,55.1,High
+239,Male,PhD,8.0,80.4,2,0,44.4,Low
+240,Female,High School,11.7,74.2,8,0,46.4,Medium
+241,Female,Master,18.2,78.9,9,0,50.6,High
+242,Male,Bachelor,9.7,87.0,10,0,44.3,Medium
+243,Female,Bachelor,11.8,90.5,10,0,59.5,High
+244,Male,Master,12.3,63.3,5,0,45.9,Medium
+245,Male,Bachelor,16.2,84.9,10,0,67.9,High
+246,Female,Bachelor,0.8,86.6,5,1,30.6,Low
+247,Male,High School,9.0,82.2,3,1,46.2,Low
+248,Male,High School,13.1,97.9,7,0,64.6,High
+249,Male,Master,18.0,89.2,4,1,59.9,High
+250,Male,Bachelor,9.5,98.1,6,1,51.1,Medium
+251,Female,Bachelor,2.6,82.8,8,0,35.6,Low
+252,Male,Bachelor,15.1,94.4,4,0,58.2,Medium
+253,Female,High School,8.8,100.0,10,1,55.9,High
+254,Male,High School,6.1,98.1,4,0,39.4,Low
+255,Male,Bachelor,8.9,74.1,3,1,51.2,Medium
+256,Male,Bachelor,11.1,82.5,5,1,44.8,Medium
+257,Male,High School,9.0,81.5,1,1,35.5,Low
+258,Female,Bachelor,1.0,89.9,2,1,37.4,Low
+259,Female,High School,16.5,91.9,0,0,59.6,Medium
+260,Male,Bachelor,18.4,76.6,1,0,57.3,Medium
+261,Male,High School,15.3,85.7,1,1,58.7,Medium
+262,Female,Bachelor,6.3,64.8,7,0,38.6,Low
+263,Male,High School,11.0,99.4,7,1,64.7,High
+264,Male,Bachelor,12.0,79.9,1,1,46.5,Medium
+265,Male,High School,15.0,85.6,5,1,60.6,Medium
+266,Female,High School,15.3,81.9,4,0,59.3,Medium
+267,Female,High School,8.3,96.5,2,0,37.9,Low
+268,Female,Bachelor,12.4,56.6,4,0,37.1,Low
+269,Male,Bachelor,14.3,84.8,4,0,48.9,Medium
+270,Male,High School,19.3,83.9,4,1,64.7,High
+271,Female,Bachelor,15.5,80.5,2,1,57.2,Medium
+272,Female,Master,15.9,100.0,2,1,65.7,Medium
+273,Female,Bachelor,12.4,76.1,3,0,47.6,Medium
+274,Female,High School,19.1,92.7,6,0,64.6,High
+275,Male,Bachelor,14.0,88.6,1,1,56.4,Medium
+276,Female,High School,7.7,97.6,9,0,48.6,Medium
+277,Male,High School,19.0,78.3,3,0,63.7,High
+278,Female,PhD,15.5,77.7,3,1,49.0,Medium
+279,Male,High School,9.8,96.0,0,1,49.2,Low
+280,Female,Bachelor,9.6,89.3,9,0,50.7,Medium
+281,Female,Bachelor,13.5,69.6,7,1,46.2,Medium
+282,Female,Bachelor,14.3,79.6,0,0,47.8,Low
+283,Female,Bachelor,13.0,88.9,7,1,57.7,High
+284,Male,High School,13.6,93.4,6,0,54.8,Medium
+285,Female,High School,20.5,78.2,8,0,57.8,High
+286,Male,Bachelor,17.4,55.9,7,1,47.5,Medium
+287,Male,High School,13.0,90.2,4,0,51.1,Medium
+288,Male,High School,16.7,72.8,7,1,54.0,Medium
+289,Male,High School,6.8,64.8,10,1,34.4,Medium
+290,Female,High School,14.0,56.7,9,1,41.1,Medium
+291,Male,High School,21.0,93.1,2,1,66.3,High
+292,Male,High School,10.9,86.3,9,0,55.9,Medium
+293,Male,Bachelor,7.8,82.7,6,1,46.6,Medium
+294,Female,Bachelor,8.7,98.9,3,0,44.1,Low
+295,Female,Master,6.6,91.4,4,0,50.8,Low
+296,Female,High School,8.1,100.0,8,1,54.7,Medium
+297,Female,High School,10.1,71.1,6,0,45.9,Medium
+298,Male,High School,5.0,84.7,3,0,45.8,Low
+299,Male,Bachelor,12.1,68.8,5,0,45.7,Medium
+300,Female,Bachelor,16.5,82.7,9,1,60.9,Medium
+301,Male,High School,7.5,82.5,10,1,41.9,Medium
+302,Male,Master,19.6,91.3,6,0,70.1,High
+303,Male,High School,14.6,85.5,9,0,57.1,Medium
+304,Female,Bachelor,17.2,91.2,8,1,55.3,High
+305,Female,Bachelor,8.7,92.0,3,0,55.1,Medium
+306,Male,Master,16.3,100.0,9,0,63.8,High
+307,Female,Bachelor,6.5,81.8,2,0,41.2,Low
+308,Female,Master,16.5,75.6,7,0,52.7,High
+309,Female,High School,12.9,87.5,0,0,52.4,Medium
+310,Female,Master,14.8,77.0,8,1,54.1,Medium
+311,Female,High School,6.1,99.8,0,0,44.2,Low
+312,Male,Master,7.5,82.2,1,1,36.3,Low
+313,Female,Bachelor,15.0,79.3,7,1,48.9,Medium
+314,Male,Master,7.3,80.3,8,1,44.9,Medium
+315,Male,Bachelor,14.3,92.2,6,0,57.5,Medium
+316,Female,Bachelor,5.2,83.4,2,0,46.7,Low
+317,Male,Bachelor,16.2,78.6,6,0,55.5,Medium
+318,Male,Bachelor,5.8,100.0,5,1,53.0,Medium
+319,Male,High School,14.8,76.4,1,0,49.3,Low
+320,Female,High School,15.1,85.4,2,0,54.7,Medium
+321,Female,High School,8.5,91.5,10,0,49.4,Medium
+322,Male,High School,14.9,68.7,9,0,49.1,High
+323,Female,Master,13.3,89.8,9,0,54.7,Medium
+324,Female,High School,9.3,74.4,4,0,39.4,Medium
+325,Female,PhD,7.0,93.2,9,0,39.8,Medium
+326,Female,High School,2.2,75.4,3,0,36.6,Low
+327,Male,High School,13.7,91.9,1,0,60.0,Medium
+328,Male,Bachelor,4.2,96.1,3,1,41.6,Low
+329,Female,Bachelor,12.5,93.6,7,0,58.1,Medium
+330,Female,Bachelor,10.7,87.5,4,0,50.2,Medium
+331,Male,Bachelor,15.4,82.7,4,0,61.7,Medium
+332,Male,Bachelor,10.5,79.2,9,0,40.9,Medium
+333,Female,High School,10.4,99.7,2,1,54.8,Medium
+334,Male,PhD,15.7,78.0,7,0,53.7,Medium
+335,Female,PhD,13.7,74.6,5,1,51.2,Medium
+336,Female,Bachelor,13.6,91.7,1,1,64.7,Medium
+337,Male,High School,14.3,77.0,1,1,51.7,Medium
+338,Male,Bachelor,4.3,75.5,8,0,40.4,Medium
+339,Female,High School,15.8,70.6,6,0,51.2,Medium
+340,Female,High School,15.1,80.2,9,1,60.0,High
+341,Male,High School,6.9,84.2,8,0,47.8,Medium
+342,Female,Bachelor,10.8,87.4,5,1,49.5,Medium
+343,Male,Master,11.8,94.5,4,1,53.5,Medium
+344,Female,Bachelor,11.3,90.3,0,1,55.5,Medium
+345,Male,Bachelor,13.7,83.1,5,0,50.5,Medium
+346,Male,Bachelor,19.2,83.0,5,1,62.9,High
+347,Male,High School,17.4,90.1,2,1,60.4,Medium
+348,Female,High School,5.4,97.7,2,1,49.1,Medium
+349,Female,PhD,15.1,86.3,2,0,56.4,Medium
+350,Male,High School,18.6,80.3,2,0,56.6,Medium
+351,Female,Master,13.9,75.1,6,0,56.5,Medium
+352,Male,Bachelor,17.5,70.5,9,0,55.6,High
+353,Male,Bachelor,22.1,91.7,10,0,69.5,High
+354,Female,Bachelor,17.1,90.8,1,1,64.1,Medium
+355,Female,Bachelor,13.2,90.8,9,0,47.8,High
+356,Male,Master,17.2,83.7,9,1,69.8,High
+357,Female,Master,12.7,99.1,1,0,58.8,Medium
+358,Female,Bachelor,12.1,80.2,2,0,40.4,Low
+359,Male,High School,10.2,94.6,9,0,59.2,Medium
+360,Male,Bachelor,19.8,84.6,6,0,59.8,Medium
+361,Female,Master,7.9,78.9,2,1,48.6,Low
+362,Male,High School,19.7,90.9,6,0,66.5,High
+363,Male,Bachelor,14.5,89.1,8,1,49.5,Medium
+364,Female,Bachelor,5.0,88.6,10,0,44.2,Medium
+365,Male,Bachelor,13.8,85.8,9,1,56.0,High
+366,Male,High School,1.5,84.6,10,0,41.9,Low
+367,Female,Bachelor,15.1,100.0,3,0,65.3,Medium
+368,Female,Master,16.4,96.8,6,0,57.2,High
+369,Male,High School,9.0,92.2,8,0,55.5,Medium
+370,Male,High School,12.6,86.1,7,0,51.3,High
+371,Female,PhD,21.8,95.1,7,1,79.3,High
+372,Female,High School,9.5,90.2,8,1,48.5,Medium
+373,Female,Master,6.7,85.3,4,1,43.1,Medium
+374,Female,Bachelor,19.4,82.0,4,0,57.8,Medium
+375,Male,High School,21.8,84.2,2,0,63.9,High
+376,Female,Master,12.0,53.3,4,0,35.5,Medium
+377,Female,Bachelor,17.1,87.1,7,1,66.3,High
+378,Male,Bachelor,18.7,80.1,4,1,53.4,High
+379,Female,High School,8.3,100.0,3,1,56.5,Medium
+380,Male,Bachelor,9.6,85.2,7,1,52.6,Medium
+381,Female,High School,18.2,73.1,6,0,63.4,High
+382,Female,High School,20.4,84.5,5,0,64.7,High
+383,Female,PhD,14.8,74.5,4,0,46.9,Medium
+384,Male,High School,7.6,89.7,4,0,46.4,Medium
+385,Male,Bachelor,21.9,87.9,9,0,71.0,High
+386,Female,High School,9.3,94.6,1,0,52.3,Medium
+387,Male,Bachelor,10.3,77.1,3,1,48.2,Low
+388,Male,High School,13.7,85.3,7,1,61.5,High
+389,Male,PhD,19.8,71.3,7,1,61.1,High
+390,Male,Bachelor,16.3,92.0,10,1,62.2,High
+391,Male,High School,14.1,90.2,0,0,48.0,Medium
+392,Male,High School,14.3,90.0,1,0,53.5,Medium
+393,Female,High School,12.2,85.0,4,1,50.3,Medium
+394,Female,Bachelor,14.8,89.1,8,0,48.0,High
+395,Male,High School,0.0,100.0,9,0,34.5,Low
+396,Female,Master,10.5,82.1,10,0,47.3,Medium
+397,Female,Bachelor,13.2,86.4,10,0,53.8,Medium
+398,Female,High School,6.2,74.1,6,0,41.6,Low
+399,Female,Bachelor,13.9,76.3,9,0,50.4,Medium
+400,Male,Bachelor,11.0,86.0,4,0,52.1,Medium
+401,Female,High School,20.8,96.0,0,1,67.5,High
+402,Female,High School,19.9,82.4,5,0,63.0,High
+403,Male,High School,9.7,82.6,7,0,49.8,Medium
+404,Male,Bachelor,11.2,80.9,6,0,56.6,Medium
+405,Female,Bachelor,11.6,79.7,1,0,46.7,Low
+406,Female,Bachelor,9.7,87.9,4,1,50.5,Medium
+407,Female,Master,13.0,70.0,10,1,51.8,Medium
+408,Female,Master,8.2,97.8,3,1,44.2,Medium
+409,Female,Bachelor,6.3,78.3,8,0,50.8,Medium
+410,Female,Master,15.1,92.2,9,0,65.5,High
+411,Male,High School,15.1,72.3,0,0,43.1,Low
+412,Female,High School,8.0,91.7,5,0,50.5,Medium
+413,Female,High School,16.5,91.7,2,0,58.6,Medium
+414,Male,High School,8.8,88.8,10,0,46.8,Medium
+415,Male,Bachelor,13.3,75.1,8,0,51.7,Medium
+416,Male,Master,16.1,87.5,4,1,64.4,Medium
+417,Male,High School,11.8,73.2,5,0,44.7,Medium
+418,Female,High School,14.3,82.5,10,1,52.1,High
+419,Female,Bachelor,9.4,95.3,8,0,54.1,Medium
+420,Female,Master,11.0,93.0,8,0,56.6,Medium
+421,Female,High School,11.0,85.2,7,1,45.5,Medium
+422,Female,Bachelor,8.3,75.3,8,1,51.1,Medium
+423,Female,High School,11.1,91.5,3,0,50.0,Medium
+424,Male,High School,4.3,85.2,5,0,45.3,Low
+425,Female,PhD,9.5,61.8,4,0,41.3,Low
+426,Male,PhD,10.6,92.8,4,0,56.0,Medium
+427,Male,High School,10.7,84.8,3,1,46.9,Medium
+428,Female,PhD,10.8,97.0,1,1,46.4,Medium
+429,Male,Bachelor,11.7,74.0,5,1,47.0,Medium
+430,Female,Master,14.4,53.2,8,0,42.8,Medium
+431,Male,Bachelor,16.4,87.8,0,1,54.9,Medium
+432,Female,Bachelor,8.8,87.9,6,0,52.9,Medium
+433,Male,Bachelor,6.0,68.1,5,1,36.0,Low
+434,Female,Bachelor,6.8,75.2,2,1,36.2,Low
+435,Female,High School,9.6,100.0,0,0,57.3,Medium
+436,Female,High School,10.2,81.9,3,0,51.2,Medium
+437,Female,High School,8.2,92.3,8,0,45.6,Medium
+438,Female,Bachelor,5.5,78.5,1,0,45.8,Low
+439,Male,High School,9.7,64.1,2,1,51.4,Medium
+440,Male,Bachelor,12.9,83.3,1,0,47.2,Low
+441,Male,PhD,15.0,82.3,1,0,54.5,Medium
+442,Female,High School,9.2,81.0,9,0,47.9,Medium
+443,Male,Bachelor,9.9,83.9,10,1,59.8,High
+444,Female,Bachelor,7.4,87.6,10,0,42.4,Medium
+445,Female,Master,11.8,83.5,7,1,46.5,Medium
+446,Male,High School,7.8,72.4,2,1,35.8,Low
+447,Male,Bachelor,14.9,89.9,6,1,64.4,High
+448,Female,Master,3.1,65.5,7,0,27.3,Low
+449,Male,Master,10.2,64.5,2,0,36.9,Low
+450,Female,Bachelor,13.5,92.4,1,0,58.4,Medium
+451,Female,Bachelor,12.9,90.1,7,0,56.9,High
+452,Female,Bachelor,25.5,84.4,2,0,77.3,High
+453,Female,Master,13.7,71.0,6,1,49.5,Medium
+454,Female,Bachelor,7.0,77.9,0,0,42.9,Low
+455,Male,High School,11.5,82.4,5,1,49.7,Medium
+456,Male,Master,3.1,69.0,8,0,25.8,Low
+457,Female,Bachelor,11.6,77.6,2,1,47.4,Low
+458,Female,Bachelor,7.8,91.5,6,1,48.7,Medium
+459,Male,High School,16.6,99.3,5,1,62.4,Medium
+460,Male,Bachelor,9.3,80.8,7,1,38.4,Medium
+461,Female,High School,11.4,92.6,2,1,48.5,Medium
+462,Male,Bachelor,8.8,65.9,2,1,39.4,Low
+463,Female,High School,20.7,91.6,3,0,72.3,Medium
+464,Male,Bachelor,10.4,77.0,2,0,54.8,Medium
+465,Female,PhD,21.2,88.1,8,0,66.1,High
+466,Male,High School,16.1,82.5,10,0,53.5,High
+467,Female,PhD,14.4,98.2,3,0,59.0,Medium
+468,Male,Bachelor,13.8,76.3,5,0,46.0,Medium
+469,Male,Master,14.0,91.3,7,0,61.4,High
+470,Female,Bachelor,2.4,82.2,10,0,47.1,Medium
+471,Male,Bachelor,10.6,83.4,7,0,45.8,Medium
+472,Female,Bachelor,16.2,83.2,4,1,51.6,Medium
+473,Male,Master,11.8,76.5,4,0,53.3,Medium
+474,Female,Bachelor,5.0,84.9,5,1,43.0,Low
+475,Male,High School,11.7,84.4,9,0,53.0,Medium
+476,Female,Bachelor,20.5,87.4,6,1,73.7,High
+477,Male,Master,18.2,85.8,9,1,54.9,High
+478,Female,Bachelor,11.7,93.0,6,1,47.8,Medium
+479,Male,Bachelor,16.8,94.2,3,1,62.0,Medium
+480,Female,Bachelor,10.2,74.5,5,0,45.4,Medium
+481,Female,Master,3.5,93.7,6,1,40.9,Medium
+482,Female,High School,7.4,73.1,4,1,52.6,Low
+483,Male,Bachelor,19.8,90.9,4,1,64.5,Medium
+484,Female,High School,10.6,91.2,1,1,49.7,Medium
+485,Male,High School,10.8,65.9,6,0,43.2,Medium
+486,Female,High School,10.5,85.9,5,1,55.0,Medium
+487,Male,High School,21.5,80.3,10,0,60.8,High
+488,Female,Bachelor,20.1,77.4,0,0,60.4,Medium
+489,Male,High School,23.1,98.5,3,0,79.0,High
+490,Male,Bachelor,11.2,78.5,2,1,53.5,Medium
+491,Female,High School,13.5,76.9,2,0,52.1,Medium
+492,Male,High School,4.4,85.8,6,0,53.0,Low
+493,Male,High School,19.4,91.9,10,0,75.7,High
+494,Female,High School,6.2,83.6,9,1,35.6,Medium
+495,Male,Bachelor,13.1,96.7,3,1,49.8,Medium
+496,Male,Bachelor,6.5,90.3,7,0,49.9,Medium
+497,Male,Bachelor,9.1,63.2,10,0,45.7,Medium
+498,Female,Bachelor,7.8,79.7,8,1,42.5,Medium
+499,Male,High School,9.0,79.4,2,1,42.7,Low
+500,Female,Master,9.3,89.8,4,1,45.8,Medium
+501,Male,Bachelor,9.3,58.8,3,0,31.5,Low
+502,Male,Bachelor,16.2,100.0,9,1,69.9,High
+503,Male,High School,6.5,90.3,5,0,43.9,Medium
+504,Female,High School,13.1,86.5,10,0,55.8,Medium
+505,Male,High School,18.1,96.8,9,0,56.7,High
+506,Male,High School,9.4,100.0,3,0,59.2,Medium
+507,Female,Bachelor,8.4,93.7,7,1,53.0,Medium
+508,Male,Bachelor,10.8,94.5,2,0,47.3,Low
+509,Female,Bachelor,17.9,86.3,10,0,62.7,High
+510,Female,Bachelor,13.0,83.6,4,0,52.9,Medium
+511,Male,Master,9.3,80.2,0,0,43.9,Low
+512,Female,Bachelor,14.4,76.7,5,0,37.8,Medium
+513,Male,PhD,6.5,78.1,10,0,37.7,Medium
+514,Female,High School,15.4,71.5,4,0,53.2,Medium
+515,Female,High School,14.0,84.2,7,1,52.0,High
+516,Male,High School,10.5,68.2,8,1,41.8,Medium
+517,Female,Bachelor,7.8,86.9,7,1,54.0,Medium
+518,Female,Master,7.6,84.6,7,0,44.8,Medium
+519,Female,High School,14.7,86.5,2,1,46.1,Medium
+520,Female,Master,18.1,79.8,3,1,58.2,Medium
+521,Female,High School,8.8,100.0,10,1,53.7,High
+522,Male,Master,14.3,98.6,3,1,56.8,Medium
+523,Female,High School,1.6,72.6,10,0,35.0,Low
+524,Male,High School,9.1,87.3,4,1,41.2,Low
+525,Female,Bachelor,11.8,78.9,8,0,48.6,Medium
+526,Male,High School,7.5,74.9,8,0,33.8,Medium
+527,Male,High School,7.3,71.6,9,0,38.1,Medium
+528,Female,High School,8.7,89.3,0,0,52.3,Low
+529,Female,Master,13.5,78.2,7,1,50.7,Medium
+530,Female,Bachelor,11.1,94.7,0,0,53.4,Low
+531,Male,High School,0.8,94.9,1,0,39.3,Low
+532,Female,Bachelor,1.4,98.7,6,1,42.0,Medium
+533,Male,Bachelor,9.0,76.5,7,0,47.5,Medium
+534,Male,High School,14.3,89.8,0,0,60.8,Medium
+535,Male,Bachelor,0.0,91.3,2,1,43.6,Low
+536,Female,High School,9.5,80.3,6,1,47.2,Medium
+537,Female,High School,9.4,77.3,8,0,36.7,Medium
+538,Male,Bachelor,18.9,100.0,7,1,72.7,High
+539,Male,High School,10.1,87.3,7,0,56.8,Medium
+540,Female,Bachelor,13.9,91.4,8,0,69.7,High
+541,Male,Bachelor,12.7,76.8,9,0,57.0,Medium
+542,Female,High School,1.3,72.8,2,0,28.7,Low
+543,Male,Bachelor,15.8,79.3,7,1,56.4,High
+544,Female,High School,13.1,83.8,0,1,51.8,Medium
+545,Male,PhD,14.5,74.4,7,0,49.5,Medium
+546,Female,Bachelor,31.6,84.9,6,0,80.8,High
+547,Male,Master,1.6,68.1,7,1,36.0,Low
+548,Female,Bachelor,20.6,73.8,0,0,52.5,Medium
+549,Female,High School,10.6,91.7,5,0,47.5,Medium
+550,Male,Bachelor,13.4,91.0,6,1,62.7,Medium
+551,Male,PhD,11.8,81.1,10,1,57.4,High
+552,Female,Bachelor,9.9,74.8,4,1,41.4,Medium
+553,Male,Master,9.2,74.7,4,0,51.9,Medium
+554,Female,Master,13.6,81.3,6,1,57.9,Medium
+555,Male,High School,4.4,91.4,10,0,41.9,Medium
+556,Female,High School,15.8,94.3,2,0,49.2,Medium
+557,Female,Bachelor,9.9,80.0,5,0,38.6,Low
+558,Female,Bachelor,6.3,73.5,6,0,35.6,Low
+559,Female,Master,9.7,87.7,0,0,53.5,Low
+560,Female,Master,18.3,76.8,1,0,61.9,Medium
+561,Female,High School,9.3,79.8,3,0,43.6,Medium
+562,Male,High School,13.8,98.3,7,1,58.8,High
+563,Male,Bachelor,8.3,93.3,10,0,49.7,Medium
+564,Male,High School,15.8,86.6,9,0,57.2,High
+565,Female,Master,15.4,72.3,5,0,52.9,Medium
+566,Female,Bachelor,21.2,87.1,0,0,66.6,Medium
+567,Female,Bachelor,11.1,95.6,9,1,46.6,Medium
+568,Female,High School,15.3,81.2,4,0,54.5,Medium
+569,Male,Bachelor,12.5,98.5,6,1,58.0,Medium
+570,Male,Bachelor,18.5,97.9,5,0,71.8,High
+571,Female,Bachelor,8.4,100.0,8,0,48.5,Medium
+572,Male,High School,15.7,88.1,7,1,59.8,High
+573,Male,Bachelor,11.0,90.9,3,1,55.7,Medium
+574,Female,Master,11.7,99.1,10,0,56.4,High
+575,Male,High School,12.5,89.5,4,1,45.7,Medium
+576,Female,High School,13.3,80.0,6,0,56.9,Medium
+577,Male,High School,11.4,80.5,7,1,53.1,Medium
+578,Female,Bachelor,13.1,87.4,4,1,55.7,Medium
+579,Female,Bachelor,19.9,72.1,8,1,58.9,High
+580,Female,Bachelor,16.9,83.6,9,1,49.9,High
+581,Female,High School,16.3,96.0,3,0,66.8,Medium
+582,Male,High School,9.7,63.1,3,1,47.3,Low
+583,Female,Bachelor,7.6,100.0,7,0,45.8,Medium
+584,Female,Bachelor,16.8,96.2,0,0,70.4,Medium
+585,Female,PhD,16.4,80.4,7,0,62.4,Medium
+586,Male,High School,19.4,90.4,4,0,59.5,High
+587,Female,Bachelor,9.0,85.0,10,1,45.5,Medium
+588,Male,Bachelor,10.9,97.3,0,0,48.2,Low
+589,Female,Bachelor,3.8,94.8,3,0,43.3,Medium
+590,Male,Bachelor,10.0,71.0,1,0,45.7,Low
+591,Male,Bachelor,17.0,90.9,3,0,55.2,Medium
+592,Female,PhD,9.7,82.9,7,1,49.6,Medium
+593,Male,High School,15.2,85.8,4,0,60.3,Medium
+594,Female,High School,11.0,77.7,0,1,50.9,Low
+595,Female,Bachelor,13.6,100.0,6,1,62.7,High
+596,Female,Bachelor,6.3,95.4,0,1,41.4,Low
+597,Male,High School,12.4,77.6,8,0,49.1,Medium
+598,Male,High School,0.0,71.7,2,1,30.4,Low
+599,Female,High School,11.1,81.1,2,0,56.4,Medium
+600,Female,Master,3.8,89.3,5,1,41.5,Medium
+601,Male,High School,18.0,87.4,9,0,64.1,High
+602,Female,High School,15.9,97.5,5,0,58.2,Medium
+603,Female,High School,14.3,92.9,10,0,52.9,High
+604,Female,High School,19.6,94.7,10,1,60.9,High
+605,Male,High School,7.3,88.3,5,0,44.1,Low
+606,Male,Bachelor,20.7,71.1,0,0,69.9,Medium
+607,Male,High School,16.7,83.0,4,0,56.2,High
+608,Female,Master,10.8,95.6,5,1,56.3,Medium
+609,Female,High School,17.7,84.5,7,1,63.1,High
+610,Female,Bachelor,6.5,90.0,0,0,40.3,Low
+611,Male,Master,7.9,81.8,4,1,42.4,Low
+612,Female,Bachelor,9.0,74.7,2,0,46.4,Low
+613,Female,Bachelor,9.4,83.8,1,0,49.7,Low
+614,Female,High School,6.7,88.1,10,1,35.3,Medium
+615,Female,High School,18.1,78.4,7,0,61.5,High
+616,Male,Bachelor,10.7,82.6,6,0,46.4,Medium
+617,Male,PhD,13.8,75.6,9,0,48.3,Medium
+618,Female,Bachelor,9.1,96.2,6,0,54.2,Medium
+619,Male,Bachelor,2.9,82.1,4,0,44.8,Low
+620,Male,Bachelor,13.4,99.5,8,0,58.8,Medium
+621,Female,Bachelor,2.4,100.0,4,0,49.6,Low
+622,Female,High School,11.7,84.2,1,0,44.0,Low
+623,Male,Bachelor,5.2,74.9,2,0,38.4,Low
+624,Female,PhD,21.9,64.1,3,0,55.9,Medium
+625,Male,High School,16.6,70.3,4,0,54.4,Medium
+626,Female,Bachelor,12.5,71.3,2,1,45.8,Low
+627,Male,High School,18.3,98.8,6,0,60.3,High
+628,Female,Bachelor,7.8,86.2,4,1,41.7,Medium
+629,Male,High School,14.7,88.9,4,1,49.4,Medium
+630,Male,Bachelor,13.0,62.8,5,1,38.1,Medium
+631,Male,Bachelor,13.3,73.0,6,0,51.6,Medium
+632,Female,High School,18.4,93.9,9,0,63.8,High
+633,Male,Bachelor,15.7,87.9,9,0,59.8,High
+634,Male,Bachelor,13.4,83.5,7,1,62.7,High
+635,Female,Master,3.7,90.6,8,0,40.4,Medium
+636,Female,High School,7.2,100.0,10,1,54.0,Medium
+637,Male,High School,11.4,82.8,3,1,50.3,Medium
+638,Male,High School,12.5,85.7,4,0,66.8,Medium
+639,Female,PhD,6.3,86.9,4,0,29.2,Low
+640,Female,Master,24.1,100.0,7,1,72.5,High
+641,Female,Bachelor,19.6,64.0,8,0,58.2,Medium
+642,Female,Master,15.0,91.8,6,0,55.5,Medium
+643,Female,Bachelor,12.4,83.9,4,1,54.9,Medium
+644,Male,Bachelor,10.9,90.7,2,0,52.4,Medium
+645,Female,High School,7.2,78.4,0,1,46.6,Low
+646,Male,Bachelor,12.4,84.5,10,1,46.7,Medium
+647,Male,High School,13.3,92.1,8,1,57.6,Medium
+648,Male,Master,5.8,100.0,4,0,51.0,Medium
+649,Female,Bachelor,13.7,93.1,8,0,58.4,High
+650,Male,Bachelor,11.2,76.5,9,0,48.2,Medium
+651,Male,High School,2.5,80.8,3,0,42.0,Low
+652,Female,High School,7.7,80.5,4,0,35.3,Low
+653,Male,High School,9.9,67.0,3,0,42.3,Low
+654,Male,High School,21.4,81.7,1,0,58.8,Medium
+655,Female,High School,14.8,92.3,0,0,62.9,Medium
+656,Male,Master,5.3,72.3,7,1,32.7,Medium
+657,Male,Bachelor,14.4,95.5,3,0,47.5,Medium
+658,Male,High School,4.3,89.9,4,0,46.3,Low
+659,Female,High School,17.4,77.7,5,1,55.8,Medium
+660,Female,Bachelor,9.6,83.6,7,1,49.7,Medium
+661,Female,Bachelor,11.5,100.0,10,0,64.4,High
+662,Male,Bachelor,18.6,92.3,7,0,66.7,High
+663,Male,Master,5.6,85.1,6,0,43.2,Medium
+664,Female,Bachelor,5.0,82.6,3,1,40.3,Low
+665,Male,PhD,9.1,85.8,5,1,42.2,Medium
+666,Male,Master,17.2,79.9,3,1,56.7,Medium
+667,Female,High School,4.4,64.0,6,0,42.1,Low
+668,Female,Master,0.0,100.0,10,0,38.1,Medium
+669,Male,High School,9.7,86.6,0,0,48.5,Low
+670,Male,Master,14.8,89.0,4,1,64.0,High
+671,Male,High School,18.0,84.4,9,1,53.1,High
+672,Female,Master,9.7,77.6,9,1,48.7,Medium
+673,Female,Master,9.9,83.1,3,0,40.2,Low
+674,Female,Master,17.8,69.0,10,0,56.3,High
+675,Female,Bachelor,2.7,100.0,6,0,43.9,Low
+676,Male,High School,10.1,72.7,8,1,47.2,Medium
+677,Female,High School,13.0,74.7,4,1,44.2,Medium
+678,Female,Bachelor,14.2,80.6,3,0,50.9,Medium
+679,Female,High School,9.5,97.9,8,0,56.6,Medium
+680,Female,Bachelor,12.2,85.1,4,0,49.8,Medium
+681,Female,High School,0.0,72.6,8,0,32.8,Low
+682,Male,PhD,8.7,97.5,7,1,53.1,Medium
+683,Male,Bachelor,14.3,92.3,3,0,56.1,Medium
+684,Female,Master,7.1,90.4,10,1,45.2,High
+685,Male,High School,12.3,92.2,10,0,55.3,High
+686,Female,Master,14.2,100.0,6,1,60.3,Medium
+687,Female,Master,10.3,100.0,4,0,59.1,Medium
+688,Male,Bachelor,12.9,78.1,9,1,48.7,High
+689,Male,Bachelor,7.2,100.0,3,0,47.9,Low
+690,Female,Bachelor,11.0,88.8,4,0,56.5,Medium
+691,Female,High School,15.1,90.0,4,0,56.5,Medium
+692,Female,Bachelor,12.8,68.1,10,0,43.7,Medium
+693,Male,High School,9.1,83.3,8,0,34.5,Medium
+694,Female,High School,13.1,76.9,8,0,45.2,Medium
+695,Female,High School,15.6,93.3,5,1,56.5,High
+696,Female,High School,1.8,95.7,3,0,38.2,Low
+697,Male,High School,17.8,64.3,1,1,48.8,Medium
+698,Female,High School,10.3,84.8,2,1,54.3,Medium
+699,Female,PhD,14.1,96.2,1,0,55.8,Medium
+700,Male,Bachelor,18.0,83.1,4,1,56.7,Medium
+701,Female,PhD,5.1,92.3,5,0,45.4,Medium
+702,Female,Bachelor,8.5,88.5,10,0,42.6,Medium
+703,Male,High School,10.6,88.4,4,0,59.0,Medium
+704,Female,Bachelor,8.1,82.3,1,1,49.0,Low
+705,Male,Bachelor,20.7,72.8,4,0,54.3,Medium
+706,Male,High School,7.7,73.8,8,0,46.2,Medium
+707,Female,Bachelor,9.2,92.1,3,0,56.8,Medium
+708,Female,High School,13.0,85.2,9,1,47.9,High
+709,Female,Bachelor,6.0,83.6,1,0,36.6,Low
+710,Female,Bachelor,10.0,80.8,2,1,44.3,Medium
+711,Male,High School,13.6,81.9,2,1,46.1,Medium
+712,Female,High School,10.3,95.5,8,1,49.8,Medium
+713,Male,Bachelor,11.5,81.6,3,1,48.0,Medium
+714,Female,Bachelor,9.4,71.6,0,1,45.2,Low
+715,Female,High School,4.4,92.4,0,0,44.0,Low
+716,Female,PhD,13.6,83.0,6,0,52.9,Medium
+717,Male,High School,20.8,85.3,6,0,62.9,High
+718,Female,Bachelor,12.1,100.0,1,0,51.6,Medium
+719,Female,PhD,13.1,84.8,8,0,56.6,Medium
+720,Female,High School,15.5,87.9,8,0,61.2,High
+721,Female,High School,5.7,73.2,4,0,34.7,Low
+722,Male,High School,20.5,82.8,2,1,58.4,Medium
+723,Female,High School,13.0,91.1,2,0,63.7,Medium
+724,Male,High School,20.2,69.4,2,1,59.3,Medium
+725,Male,Bachelor,8.3,87.0,5,0,49.3,Low
+726,Male,High School,21.1,86.0,3,1,68.2,High
+727,Male,Bachelor,15.9,85.4,7,1,52.0,Medium
+728,Male,PhD,14.8,95.4,10,0,67.8,High
+729,Male,Master,13.2,88.3,10,0,53.1,High
+730,Female,Bachelor,10.8,99.8,10,0,60.2,Medium
+731,Male,High School,18.0,75.1,4,0,64.3,Medium
+732,Male,Bachelor,12.7,86.4,0,1,54.0,Medium
+733,Male,Bachelor,2.2,85.8,8,1,31.7,Low
+734,Female,Bachelor,6.4,74.3,0,0,26.9,Low
+735,Female,High School,11.1,94.6,5,0,54.2,Medium
+736,Male,Master,13.5,100.0,0,0,61.6,Medium
+737,Female,Bachelor,11.7,84.8,2,0,48.6,Low
+738,Male,High School,18.1,90.1,9,1,63.8,High
+739,Male,High School,2.2,85.8,4,0,39.9,Low
+740,Female,Bachelor,12.7,77.9,9,0,55.2,High
+741,Male,Master,2.9,66.8,6,0,29.9,Low
+742,Female,Bachelor,15.8,77.9,9,0,54.6,High
+743,Female,Bachelor,11.5,71.1,7,1,44.8,Medium
+744,Male,High School,14.1,100.0,8,0,61.3,High
+745,Male,Bachelor,7.7,83.8,5,1,42.5,Medium
+746,Female,Bachelor,18.4,81.5,10,1,57.6,High
+747,Male,High School,17.2,93.9,8,0,61.1,High
+748,Male,High School,14.9,73.8,7,0,52.7,Medium
+749,Male,Bachelor,11.4,77.3,8,1,43.7,Medium
+750,Female,High School,14.9,85.7,9,1,54.4,High
+751,Female,Bachelor,8.5,95.3,3,1,59.9,Medium
+752,Male,High School,16.3,90.0,8,0,64.9,High
+753,Female,High School,20.2,87.5,6,1,60.6,High
+754,Female,High School,17.4,85.8,4,0,64.7,High
+755,Female,PhD,8.4,89.0,4,1,51.3,Medium
+756,Female,Master,13.8,87.0,0,1,55.0,Medium
+757,Female,PhD,5.5,74.7,1,0,34.6,Low
+758,Male,Bachelor,14.9,85.5,9,1,52.4,High
+759,Male,High School,14.3,74.3,2,0,52.2,Medium
+760,Male,Bachelor,2.7,85.8,7,1,34.1,Low
+761,Female,Bachelor,6.2,80.2,5,0,46.9,Medium
+762,Female,Master,10.6,100.0,9,1,62.8,High
+763,Male,High School,10.5,84.6,10,0,49.4,Medium
+764,Female,Bachelor,6.0,71.0,4,1,43.0,Low
+765,Male,High School,13.9,83.7,0,0,52.3,Low
+766,Male,High School,13.3,90.2,10,0,52.4,Medium
+767,Male,Bachelor,11.0,100.0,8,0,62.0,High
+768,Female,Bachelor,8.2,79.1,2,1,51.9,Medium
+769,Female,High School,17.2,69.2,2,0,63.4,Medium
+770,Male,High School,20.3,93.2,1,0,69.3,Medium
+771,Male,Bachelor,9.6,71.2,3,0,47.2,Low
+772,Male,Bachelor,8.9,80.6,1,1,47.2,Low
+773,Male,Master,14.5,82.4,8,0,61.7,High
+774,Female,PhD,10.2,84.3,9,0,51.2,Medium
+775,Female,Bachelor,11.3,91.9,6,0,57.7,Medium
+776,Male,High School,15.7,78.2,7,0,49.1,Medium
+777,Male,Bachelor,2.5,82.3,2,0,35.4,Low
+778,Female,Bachelor,18.6,84.9,5,0,65.9,High
+779,Female,High School,12.4,86.5,9,1,56.8,Medium
+780,Male,Master,9.9,86.0,5,1,53.8,Medium
+781,Male,High School,11.6,89.4,0,0,53.7,Low
+782,Male,Master,11.8,93.4,5,0,51.8,Medium
+783,Female,Bachelor,3.3,88.9,2,1,40.3,Low
+784,Female,Bachelor,19.5,89.5,10,0,65.3,High
+785,Female,Bachelor,12.2,69.2,2,1,47.2,Medium
+786,Male,Master,14.2,85.5,2,0,50.7,Medium
+787,Male,Bachelor,16.8,89.8,9,0,59.7,High
+788,Female,Bachelor,6.9,92.3,10,0,46.8,Medium
+789,Female,High School,14.4,78.1,10,1,41.6,High
+790,Male,Bachelor,10.7,78.4,9,0,51.5,Medium
+791,Female,High School,16.2,79.3,10,0,56.9,High
+792,Female,Bachelor,1.4,90.4,7,0,39.5,Low
+793,Male,Bachelor,11.5,95.3,4,1,52.8,Medium
+794,Female,Bachelor,9.0,80.9,3,1,48.8,Medium
+795,Male,High School,14.2,94.1,8,0,54.7,High
+796,Male,High School,14.4,86.2,8,0,52.6,Medium
+797,Male,Bachelor,8.5,83.8,0,1,49.3,Low
+798,Male,High School,8.4,82.9,1,0,47.6,Low
+799,Male,High School,11.4,92.5,7,0,47.8,Medium
+800,Male,High School,7.5,88.3,4,0,54.5,Medium
+801,Male,PhD,16.2,100.0,6,1,60.5,High
+802,Female,Bachelor,10.2,76.5,0,0,45.2,Low
+803,Male,High School,0.0,90.2,9,1,44.8,Low
+804,Male,High School,10.1,79.7,4,0,36.8,Medium
+805,Female,High School,6.8,76.3,10,0,32.2,Medium
+806,Female,Bachelor,3.8,84.9,2,1,41.9,Low
+807,Female,Bachelor,5.8,86.4,9,0,30.9,Medium
+808,Male,High School,12.5,100.0,1,0,48.6,Medium
+809,Female,High School,18.6,83.2,1,1,67.1,Medium
+810,Male,High School,13.6,73.7,8,1,47.8,Medium
+811,Male,Bachelor,9.0,87.7,3,1,59.5,Medium
+812,Male,Bachelor,14.3,64.3,3,1,41.9,Medium
+813,Male,High School,9.7,84.1,6,1,46.6,Medium
+814,Female,High School,8.5,85.2,9,0,49.6,Medium
+815,Female,High School,6.2,92.9,9,0,48.9,Medium
+816,Male,PhD,3.2,94.7,1,1,41.5,Low
+817,Male,High School,10.1,80.0,2,0,43.8,Low
+818,Male,Bachelor,12.8,83.5,2,1,53.7,Medium
+819,Female,Bachelor,11.5,77.3,5,1,55.1,Medium
+820,Male,High School,9.9,73.7,2,0,48.2,Low
+821,Male,High School,7.3,88.1,10,1,43.0,Medium
+822,Female,High School,15.0,72.3,4,0,46.5,Medium
+823,Female,Bachelor,5.4,80.9,3,0,37.0,Low
+824,Male,Bachelor,15.9,75.0,2,1,47.5,Medium
+825,Female,Bachelor,7.0,90.5,7,0,47.4,Medium
+826,Female,Bachelor,8.2,100.0,9,0,56.4,Medium
+827,Male,High School,4.7,72.0,2,0,35.4,Low
+828,Female,PhD,9.5,66.5,5,1,49.4,Medium
+829,Male,Bachelor,16.9,83.8,6,1,67.7,High
+830,Female,High School,14.6,85.2,6,1,57.5,Medium
+831,Male,PhD,16.9,87.2,1,1,63.7,Medium
+832,Male,Bachelor,14.6,80.5,2,0,49.6,Medium
+833,Male,Bachelor,6.5,83.0,9,1,41.1,Medium
+834,Female,Bachelor,10.3,88.7,9,1,57.4,Medium
+835,Male,Master,8.1,95.4,3,0,47.4,Medium
+836,Female,Bachelor,18.7,65.4,6,0,61.6,High
+837,Male,High School,6.0,81.3,1,1,47.1,Low
+838,Male,High School,16.5,87.1,2,1,63.3,Medium
+839,Female,Master,16.5,75.8,6,1,49.2,Medium
+840,Male,High School,21.1,100.0,6,1,70.2,High
+841,Male,High School,10.0,78.6,9,0,49.6,Medium
+842,Female,Bachelor,15.6,84.6,2,1,52.2,Medium
+843,Male,Bachelor,23.4,90.6,0,0,70.4,Medium
+844,Male,Bachelor,8.9,79.1,2,0,48.8,Medium
+845,Male,Master,4.3,66.5,4,1,30.3,Low
+846,Male,High School,2.6,80.7,6,0,32.0,Low
+847,Female,High School,15.6,95.3,3,1,52.5,Medium
+848,Female,High School,2.6,81.6,10,0,34.6,Low
+849,Male,Master,10.1,76.5,10,0,49.7,Medium
+850,Female,Bachelor,14.2,94.3,0,0,54.6,Medium
+851,Male,High School,12.9,81.7,5,0,52.2,Medium
+852,Female,Master,14.1,79.9,1,0,52.0,Medium
+853,Male,Master,13.1,86.5,2,0,50.9,Medium
+854,Male,Master,18.4,92.7,3,1,68.9,High
+855,Male,Master,7.2,100.0,5,0,59.1,Medium
+856,Male,High School,8.6,93.3,5,0,55.3,Medium
+857,Male,Bachelor,8.1,96.6,6,0,47.4,Medium
+858,Male,Bachelor,16.2,79.9,4,1,66.2,High
+859,Female,Master,16.5,74.7,6,0,59.7,High
+860,Male,Bachelor,14.3,85.6,1,1,53.3,Medium
+861,Female,Bachelor,17.9,86.1,0,1,57.4,Medium
+862,Male,Bachelor,6.1,74.2,9,0,44.5,Medium
+863,Female,High School,20.3,83.2,7,0,64.7,High
+864,Female,Bachelor,19.6,89.0,0,1,60.8,Medium
+865,Female,PhD,15.7,88.6,1,1,58.2,Medium
+866,Male,Master,20.9,90.0,10,1,65.3,High
+867,Male,High School,3.7,87.9,9,0,36.6,Medium
+868,Female,High School,9.4,79.9,5,0,51.1,Medium
+869,Male,High School,8.3,79.9,0,0,48.3,Low
+870,Female,Bachelor,15.6,73.0,9,0,56.8,High
+871,Male,Master,6.7,100.0,2,0,54.2,Low
+872,Female,High School,15.8,85.1,6,1,53.2,High
+873,Female,Bachelor,18.9,82.8,7,0,58.4,High
+874,Male,Master,15.5,75.7,3,1,60.8,Medium
+875,Female,Bachelor,13.4,100.0,2,1,60.7,Medium
+876,Male,Bachelor,7.1,74.3,0,0,32.9,Low
+877,Female,Bachelor,7.8,80.7,8,1,45.0,Medium
+878,Female,Bachelor,18.2,89.2,9,0,66.3,High
+879,Male,High School,15.9,91.0,5,1,62.9,High
+880,Male,Bachelor,11.8,94.6,5,0,50.8,Medium
+881,Male,Bachelor,9.9,100.0,8,0,64.3,Medium
+882,Female,Master,1.9,90.1,0,1,31.3,Low
+883,Male,Bachelor,6.6,74.4,5,0,40.3,Low
+884,Female,Bachelor,21.6,82.4,4,1,74.0,High
+885,Female,High School,5.6,88.1,10,0,46.6,Medium
+886,Male,Bachelor,12.9,100.0,5,0,63.6,Medium
+887,Male,High School,17.0,71.0,10,0,48.7,Medium
+888,Female,High School,5.7,97.0,7,0,49.1,Medium
+889,Female,Bachelor,12.9,86.8,4,0,53.9,Medium
+890,Male,PhD,16.7,93.4,1,1,56.7,Medium
+891,Male,High School,12.1,84.0,1,1,56.0,Medium
+892,Male,Bachelor,26.3,76.6,9,1,66.0,High
+893,Male,Master,3.7,92.5,4,1,39.0,Low
+894,Male,High School,17.3,91.5,2,0,64.7,Medium
+895,Female,Bachelor,11.1,94.7,9,1,53.9,High
+896,Female,Bachelor,15.9,84.9,2,0,58.6,Medium
+897,Female,Bachelor,14.2,79.0,7,1,51.9,High
+898,Female,High School,8.3,69.4,6,0,47.3,Medium
+899,Male,High School,13.1,93.2,0,1,52.4,Medium
+900,Male,Bachelor,2.7,89.2,4,1,37.4,Low
+901,Male,Bachelor,15.0,75.3,8,1,55.1,High
+902,Female,High School,13.5,79.6,3,1,47.1,Medium
+903,Female,Bachelor,15.2,80.3,0,1,49.8,Medium
+904,Male,High School,17.3,70.2,7,1,54.7,Medium
+905,Male,Bachelor,13.8,76.8,4,0,55.8,Medium
+906,Female,High School,12.7,73.7,1,0,53.6,Medium
+907,Female,PhD,7.6,80.9,0,0,44.2,Low
+908,Male,High School,8.4,77.6,2,0,40.3,Medium
+909,Male,High School,17.9,68.7,8,0,55.8,High
+910,Female,High School,19.2,100.0,0,0,71.6,Medium
+911,Male,High School,10.8,97.5,3,0,56.5,Medium
+912,Male,Master,12.2,77.2,7,1,55.4,Medium
+913,Male,PhD,7.5,87.7,7,1,41.2,Medium
+914,Female,High School,17.9,89.2,9,0,59.0,High
+915,Female,Bachelor,15.3,96.9,10,0,67.2,High
+916,Female,Bachelor,21.7,76.8,10,0,55.9,High
+917,Female,Master,7.6,95.9,7,0,47.1,Medium
+918,Female,Bachelor,10.1,79.5,9,1,43.3,Medium
+919,Female,High School,13.2,71.6,7,0,40.6,Medium
+920,Female,Bachelor,15.2,92.2,3,0,58.8,Medium
+921,Male,Bachelor,10.9,97.9,7,1,59.3,Medium
+922,Male,High School,7.6,100.0,8,1,52.2,Medium
+923,Male,Bachelor,16.4,73.0,6,0,57.8,Medium
+924,Male,High School,15.6,92.0,1,1,66.2,Medium
+925,Male,Bachelor,7.4,80.9,8,0,41.6,Medium
+926,Male,High School,18.8,92.8,10,0,78.5,High
+927,Male,Bachelor,17.9,70.3,7,0,53.2,High
+928,Female,Bachelor,12.7,72.4,4,0,46.9,Medium
+929,Female,Bachelor,12.4,77.2,2,0,46.0,Medium
+930,Male,High School,14.8,85.8,6,0,59.2,Medium
+931,Male,Bachelor,7.7,78.6,1,1,41.5,Low
+932,Female,Bachelor,12.2,91.6,2,1,54.5,Medium
+933,Male,Bachelor,1.2,95.3,8,0,38.9,Medium
+934,Male,Bachelor,16.4,91.0,3,0,59.8,Medium
+935,Female,Bachelor,4.2,100.0,3,1,47.1,Low
+936,Male,Master,19.5,89.2,2,0,62.7,Medium
+937,Female,High School,10.3,72.8,4,1,42.6,Medium
+938,Male,Master,10.9,98.6,2,1,61.2,Medium
+939,Female,Bachelor,8.9,78.9,8,0,43.4,Medium
+940,Female,High School,10.6,94.1,2,0,55.4,Medium
+941,Female,High School,19.1,100.0,1,0,64.2,Medium
+942,Male,High School,0.0,89.6,4,0,33.6,Low
+943,Female,Bachelor,18.4,70.0,5,0,49.4,Medium
+944,Male,Bachelor,13.7,75.8,0,1,60.1,Medium
+945,Male,Bachelor,6.0,98.2,10,0,55.1,Medium
+946,Male,Bachelor,6.6,83.3,5,0,46.2,Low
+947,Male,Bachelor,20.4,85.8,9,0,75.6,High
+948,Female,High School,7.3,92.6,2,0,51.8,Medium
+949,Female,High School,6.2,92.0,3,0,45.3,Low
+950,Male,Bachelor,17.7,87.8,5,0,63.5,Medium
+951,Male,High School,13.7,82.9,7,0,60.5,Medium
+952,Female,High School,7.3,81.9,8,1,39.3,Medium
+953,Male,Bachelor,13.1,93.6,5,0,51.2,Medium
+954,Female,Bachelor,6.9,90.5,6,1,48.6,Medium
+955,Male,PhD,17.5,82.4,4,0,56.3,Medium
+956,Male,Master,17.3,95.8,8,0,53.0,High
+957,Female,Bachelor,14.7,83.7,3,0,49.3,Medium
+958,Male,Bachelor,13.8,76.5,9,1,49.7,Medium
+959,Female,Bachelor,20.8,77.4,10,0,62.4,High
+960,Male,Bachelor,12.0,75.2,5,0,48.5,Medium
+961,Male,High School,6.1,82.3,4,0,52.1,Medium
+962,Male,Bachelor,14.2,97.3,0,0,59.3,Medium
+963,Female,Master,22.4,76.9,4,0,65.8,High
+964,Male,High School,6.9,86.9,4,1,37.0,Low
+965,Male,Bachelor,10.2,78.4,8,0,46.5,Medium
+966,Male,Bachelor,14.1,82.4,0,1,55.8,Medium
+967,Male,High School,11.7,69.9,4,0,38.7,Low
+968,Female,High School,7.1,82.8,6,1,39.1,Medium
+969,Female,High School,17.6,83.1,10,1,62.1,High
+970,Male,High School,23.6,90.4,5,0,68.8,High
+971,Female,High School,13.0,87.2,5,1,53.9,Medium
+972,Male,Master,7.5,73.0,6,1,43.1,Low
+973,Male,High School,4.3,95.8,5,0,54.9,Low
+974,Male,Bachelor,13.3,87.1,4,0,53.7,Medium
+975,Female,High School,17.5,87.0,9,1,69.9,High
+976,Female,Master,14.4,84.9,4,0,45.7,Medium
+977,Female,High School,12.0,79.8,8,0,50.7,High
+978,Female,Bachelor,9.1,87.2,7,1,46.8,Medium
+979,Female,Master,6.5,89.8,9,0,43.0,Medium
+980,Female,Master,16.2,67.5,3,1,54.6,Medium
+981,Female,High School,16.6,79.6,3,1,55.6,Medium
+982,Female,Master,4.3,82.5,9,1,29.3,Medium
+983,Female,Bachelor,19.9,87.6,4,0,57.0,Medium
+984,Male,Bachelor,14.9,96.9,2,0,64.7,Medium
+985,Female,High School,19.0,77.3,7,0,51.2,High
+986,Female,High School,5.3,80.0,6,0,43.7,Low
+987,Female,Bachelor,5.2,79.9,4,0,40.3,Low
+988,Female,Bachelor,11.3,77.0,9,0,46.8,High
+989,Female,Bachelor,14.5,81.5,2,0,54.0,Medium
+990,Female,Bachelor,21.0,92.7,4,0,71.1,Medium
+991,Female,Bachelor,15.5,74.5,2,1,47.2,Medium
+992,Female,High School,10.8,89.3,9,1,52.1,Medium
+993,Female,Bachelor,6.9,68.0,4,1,31.8,Low
+994,Female,High School,18.2,79.4,0,1,59.8,Medium
+995,Female,Bachelor,7.2,81.7,5,0,46.7,Low
+996,Male,Bachelor,20.1,100.0,9,1,71.0,High
+997,Male,PhD,10.6,82.3,3,1,51.8,Medium
+998,Female,High School,20.0,63.0,3,0,51.6,Medium
+999,Female,High School,15.4,65.0,7,0,48.8,Medium
+1000,Male,High School,11.3,85.3,1,0,49.9,Medium
+1001,Female,High School,9.4,91.1,3,0,49.0,Medium
+1002,Male,High School,10.3,88.8,1,0,46.9,Medium
+1003,Male,Master,14.1,86.7,0,0,53.7,Medium
+1004,Male,High School,12.4,96.6,9,1,51.7,High
+1005,Male,High School,9.0,79.6,2,0,36.9,Low
+1006,Male,Bachelor,11.2,93.9,7,0,50.8,Medium
+1007,Female,Bachelor,12.4,68.7,5,1,49.2,Medium
+1008,Male,Bachelor,1.4,76.0,6,0,33.6,Low
+1009,Female,High School,14.3,66.9,1,1,41.9,Medium
+1010,Female,Bachelor,7.1,82.3,5,0,41.5,Medium
+1011,Male,High School,6.2,84.5,7,1,46.6,Medium
+1012,Male,High School,3.6,86.1,7,0,37.6,Low
+1013,Female,Master,3.0,85.6,3,0,31.7,Low
+1014,Male,High School,5.2,75.7,5,0,49.4,Low
+1015,Male,Bachelor,8.5,83.1,4,1,45.1,Medium
+1016,Female,Bachelor,21.8,70.0,8,1,54.8,High
+1017,Female,High School,9.4,98.6,7,0,54.4,Medium
+1018,Male,Master,12.9,82.0,1,1,51.7,Low
+1019,Female,High School,14.0,80.1,6,0,45.3,Medium
+1020,Male,Bachelor,12.7,100.0,6,1,59.4,Medium
+1021,Male,PhD,11.6,72.6,10,1,51.4,High
+1022,Male,Bachelor,6.0,73.7,0,0,37.4,Low
+1023,Female,Master,19.3,74.0,0,0,48.2,Medium
+1024,Female,High School,21.0,84.3,3,1,67.0,High
+1025,Female,Bachelor,3.6,89.3,4,1,44.1,Low
+1026,Female,High School,6.9,92.4,3,1,44.3,Low
+1027,Female,Bachelor,10.6,100.0,6,1,53.0,Medium
+1028,Male,PhD,7.2,62.5,2,0,47.1,Low
+1029,Male,High School,14.5,91.1,6,1,54.9,Medium
+1030,Male,Bachelor,8.4,79.4,7,0,38.7,Low
+1031,Male,High School,22.8,79.1,5,1,66.0,High
+1032,Female,Bachelor,18.0,78.8,5,0,61.3,Medium
+1033,Male,Bachelor,13.1,75.9,7,0,52.6,Medium
+1034,Female,PhD,17.1,100.0,7,0,53.4,High
+1035,Male,Bachelor,17.5,93.4,6,0,60.4,Medium
+1036,Female,High School,9.2,85.2,5,0,53.6,Medium
+1037,Female,High School,7.9,98.5,5,1,52.9,Medium
+1038,Male,High School,12.4,69.9,9,1,40.4,Medium
+1039,Male,High School,16.3,71.7,10,0,59.4,High
+1040,Male,High School,12.7,63.2,5,1,49.2,Medium
+1041,Male,Master,4.1,78.0,7,1,35.9,Low
+1042,Female,Bachelor,8.0,86.6,0,0,51.0,Low
+1043,Male,Bachelor,11.6,86.0,4,0,61.9,Medium
+1044,Male,High School,11.6,86.5,2,1,46.8,Medium
+1045,Female,Master,21.9,70.9,7,1,63.9,High
+1046,Male,Bachelor,5.1,93.0,10,0,54.7,Medium
+1047,Male,High School,14.5,87.4,5,1,60.0,Medium
+1048,Male,Bachelor,19.4,92.3,1,0,62.3,High
+1049,Male,Bachelor,23.4,66.1,6,0,62.7,High
+1050,Male,High School,10.0,88.1,6,0,57.1,Medium
+1051,Female,Bachelor,14.5,73.1,4,0,45.9,Medium
+1052,Male,Bachelor,14.8,81.0,7,1,54.5,High
+1053,Male,High School,13.0,90.3,4,1,54.4,Medium
+1054,Male,Master,11.5,85.9,0,0,48.5,Low
+1055,Male,Master,14.2,76.5,8,0,53.1,Medium
+1056,Male,Bachelor,0.0,85.1,3,1,33.5,Low
+1057,Female,Bachelor,15.4,69.7,1,1,54.2,Medium
+1058,Male,Bachelor,12.6,96.5,3,1,63.3,Medium
+1059,Female,Bachelor,10.9,82.9,8,1,43.1,Medium
+1060,Female,Bachelor,22.2,96.2,1,0,72.2,High
+1061,Male,High School,8.6,79.7,3,1,44.6,Low
+1062,Male,Bachelor,10.0,79.8,1,0,47.9,Low
+1063,Male,Master,22.0,77.4,4,0,63.8,High
+1064,Male,Bachelor,7.8,93.8,2,0,44.4,Low
+1065,Female,High School,9.2,77.9,9,0,52.3,Medium
+1066,Male,Bachelor,11.3,91.4,1,1,62.9,Medium
+1067,Male,High School,16.2,81.2,8,1,59.5,Medium
+1068,Male,High School,13.0,65.2,4,0,48.6,Medium
+1069,Male,High School,5.5,79.3,9,0,40.7,Medium
+1070,Male,High School,9.3,73.2,4,0,48.1,Medium
+1071,Male,Bachelor,9.0,85.3,0,0,35.4,Low
+1072,Female,Bachelor,11.6,73.1,5,1,46.6,Medium
+1073,Female,High School,14.1,94.3,6,1,56.0,High
+1074,Male,Master,14.1,84.1,0,1,55.5,Medium
+1075,Male,Master,3.1,83.2,8,1,43.4,Medium
+1076,Male,Master,17.3,91.6,7,1,62.7,High
+1077,Female,High School,13.3,94.6,7,0,55.9,Medium
+1078,Male,Bachelor,18.9,84.8,6,0,55.3,High
+1079,Female,PhD,14.2,77.3,4,0,51.7,Medium
+1080,Male,Bachelor,17.5,67.3,2,0,56.5,Medium
+1081,Male,High School,14.3,78.1,8,1,48.5,Medium
+1082,Male,High School,18.7,78.8,6,0,49.6,High
+1083,Male,Bachelor,14.6,86.1,10,0,67.7,High
+1084,Female,Master,11.5,81.5,9,0,51.6,Medium
+1085,Female,Bachelor,23.4,91.9,9,1,70.7,High
+1086,Male,Bachelor,16.4,78.9,7,0,63.2,Medium
+1087,Male,High School,14.9,84.4,5,1,56.8,Medium
+1088,Female,Bachelor,5.6,96.8,10,1,53.8,Medium
+1089,Female,Master,5.6,88.4,4,0,49.9,Low
+1090,Female,High School,13.5,84.4,7,0,47.6,Medium
+1091,Female,Bachelor,12.7,79.0,2,1,53.0,Medium
+1092,Male,PhD,8.9,78.7,6,0,53.5,Medium
+1093,Female,High School,12.7,76.5,1,1,44.7,Medium
+1094,Male,Bachelor,19.9,79.6,2,0,56.8,Medium
+1095,Female,High School,15.5,92.6,1,0,56.2,Medium
+1096,Female,Bachelor,6.3,82.8,4,1,47.0,Low
+1097,Female,Bachelor,11.4,71.5,6,1,47.2,Medium
+1098,Female,Bachelor,8.0,100.0,10,1,42.3,High
+1099,Female,Bachelor,10.1,88.2,9,1,52.1,High
+1100,Male,High School,9.9,70.9,10,1,42.0,Medium
+1101,Male,Master,9.6,80.6,10,1,46.1,Medium
+1102,Female,Bachelor,5.7,86.1,10,1,38.8,Medium
+1103,Female,High School,11.4,100.0,9,0,58.8,Medium
+1104,Male,Bachelor,9.2,73.9,0,0,48.6,Low
+1105,Female,Bachelor,0.0,94.8,9,1,34.7,Low
+1106,Female,High School,22.3,99.0,8,0,64.6,High
+1107,Male,Master,17.4,78.7,0,0,56.1,Medium
+1108,Female,Master,10.1,82.2,0,0,51.8,Low
+1109,Female,High School,12.1,74.6,9,0,45.9,Medium
+1110,Male,PhD,6.1,83.0,7,0,34.9,Medium
+1111,Male,High School,20.5,84.6,5,0,68.4,High
+1112,Male,High School,21.5,91.6,5,1,75.9,High
+1113,Female,High School,12.8,95.9,8,0,57.6,Medium
+1114,Male,Master,17.1,77.5,3,0,48.7,Medium
+1115,Male,Bachelor,12.9,65.3,7,0,43.9,Medium
+1116,Male,High School,5.3,84.8,3,0,42.6,Low
+1117,Male,Bachelor,9.9,87.9,1,0,46.0,Low
+1118,Male,Bachelor,12.7,87.5,10,1,56.9,High
+1119,Male,High School,9.7,81.7,7,0,42.7,Medium
+1120,Female,Master,10.9,86.2,6,1,51.0,Medium
+1121,Female,Master,11.5,100.0,3,0,56.2,Medium
+1122,Male,Bachelor,11.6,88.8,8,0,56.0,Medium
+1123,Male,PhD,12.3,81.3,8,0,50.8,Medium
+1124,Male,Bachelor,6.7,80.0,7,0,41.1,Medium
+1125,Female,PhD,8.4,83.3,0,1,41.9,Low
+1126,Female,Bachelor,5.6,100.0,6,1,48.5,Medium
+1127,Female,Bachelor,16.9,83.2,4,1,57.3,High
+1128,Female,High School,1.5,84.8,6,0,31.8,Low
+1129,Female,Master,17.8,80.2,8,0,59.5,High
+1130,Female,Bachelor,18.9,96.0,1,0,68.6,High
+1131,Female,High School,10.5,100.0,10,1,54.0,Medium
+1132,Female,High School,0.0,89.5,3,0,40.5,Low
+1133,Female,Bachelor,10.2,85.8,3,1,50.9,Medium
+1134,Male,Bachelor,11.7,85.4,1,0,45.2,Low
+1135,Male,Bachelor,6.9,61.2,2,0,41.6,Low
+1136,Male,Master,9.4,92.5,10,0,55.0,Medium
+1137,Male,High School,19.7,86.3,7,0,69.0,High
+1138,Female,Bachelor,15.3,89.3,8,1,60.7,Medium
+1139,Female,High School,7.4,77.9,5,0,30.5,Low
+1140,Male,Master,4.0,81.2,9,1,43.9,Medium
+1141,Female,Master,10.4,80.9,1,0,48.2,Low
+1142,Male,Bachelor,10.9,95.2,1,1,56.3,Medium
+1143,Female,Bachelor,14.5,81.2,6,0,56.9,Medium
+1144,Male,High School,9.3,100.0,7,1,63.7,Medium
+1145,Female,Bachelor,14.6,89.3,7,1,54.8,Medium
+1146,Female,Master,21.7,72.2,5,1,58.8,High
+1147,Male,Bachelor,16.1,83.7,9,0,53.3,High
+1148,Female,High School,11.8,78.5,7,1,43.7,Medium
+1149,Male,Bachelor,11.1,63.1,0,0,36.6,Low
+1150,Male,Master,10.2,100.0,8,0,46.1,High
+1151,Male,High School,17.9,92.0,0,0,65.8,Medium
+1152,Male,High School,8.9,90.3,2,0,59.4,Medium
+1153,Female,Bachelor,12.2,86.7,8,1,63.3,Medium
+1154,Female,Master,12.3,71.2,10,0,42.6,High
+1155,Female,High School,9.5,80.2,4,0,44.9,Medium
+1156,Male,High School,5.1,93.4,8,1,51.2,Medium
+1157,Female,High School,13.6,74.5,8,0,52.4,Medium
+1158,Male,High School,11.7,59.7,5,1,42.1,Medium
+1159,Female,Bachelor,14.5,82.7,10,0,53.6,High
+1160,Female,Bachelor,9.3,83.6,0,0,53.3,Low
+1161,Female,Bachelor,18.1,86.4,9,0,56.3,High
+1162,Male,Bachelor,7.6,92.3,6,1,50.7,Medium
+1163,Female,High School,20.6,91.4,5,1,69.1,High
+1164,Female,Master,3.3,87.6,8,1,40.1,Low
+1165,Male,Bachelor,14.2,97.0,6,0,64.0,Medium
+1166,Female,PhD,14.4,69.8,10,0,49.7,Medium
+1167,Male,Bachelor,8.0,90.0,3,0,45.4,Low
+1168,Female,High School,14.1,91.3,6,0,58.2,Medium
+1169,Male,Bachelor,18.4,72.6,1,0,48.7,Medium
+1170,Male,High School,0.9,70.0,5,1,32.4,Low
+1171,Female,Bachelor,14.5,77.5,5,0,57.1,Medium
+1172,Male,High School,0.0,78.4,1,0,28.1,Low
+1173,Male,High School,7.2,92.5,3,1,43.3,Medium
+1174,Male,Master,20.1,78.9,7,1,58.7,High
+1175,Male,High School,9.1,76.4,7,0,43.9,Medium
+1176,Male,Master,6.1,78.9,7,0,41.8,Medium
+1177,Male,High School,11.0,96.2,7,0,63.1,Medium
+1178,Female,Bachelor,22.3,85.1,0,0,75.0,Medium
+1179,Male,Bachelor,2.8,83.2,1,1,41.7,Low
+1180,Male,Bachelor,6.7,83.9,3,0,44.3,Low
+1181,Female,High School,19.5,97.9,8,1,63.8,High
+1182,Female,High School,21.3,77.5,2,1,71.3,High
+1183,Female,High School,11.5,98.2,5,1,55.2,Medium
+1184,Female,High School,5.8,87.1,6,0,45.0,Medium
+1185,Female,Bachelor,22.5,83.4,7,0,70.2,High
+1186,Female,Master,20.0,100.0,6,1,70.3,High
+1187,Female,Master,15.4,74.4,2,0,58.6,Medium
+1188,Male,Bachelor,7.9,81.5,5,0,46.8,Medium
+1189,Male,Bachelor,11.8,72.7,4,0,51.6,Medium
+1190,Female,Bachelor,11.2,94.5,9,0,56.8,Medium
+1191,Male,High School,13.7,100.0,3,1,60.3,Medium
+1192,Male,Master,19.3,100.0,0,0,69.3,High
+1193,Male,Bachelor,16.4,97.2,6,0,63.2,High
+1194,Female,Bachelor,6.6,83.0,7,0,36.7,Medium
+1195,Female,High School,18.9,81.3,1,0,55.9,Medium
+1196,Male,Bachelor,13.6,68.3,6,1,51.4,Medium
+1197,Female,Bachelor,15.4,100.0,5,1,56.9,High
+1198,Male,Master,19.3,89.7,4,0,62.9,High
+1199,Male,Bachelor,6.4,80.1,3,0,36.4,Low
+1200,Male,High School,11.8,98.3,1,0,54.8,Medium
+1201,Male,PhD,9.3,75.3,9,1,43.3,Medium
+1202,Female,High School,4.2,89.1,5,0,39.8,Low
+1203,Female,Bachelor,13.7,83.3,4,1,46.8,Medium
+1204,Female,High School,24.6,91.4,1,0,72.5,High
+1205,Male,Bachelor,2.8,84.4,9,1,33.2,Medium
+1206,Female,Master,11.8,70.5,6,0,42.8,Medium
+1207,Male,High School,15.2,85.8,5,1,60.8,Medium
+1208,Female,Master,12.6,95.5,10,0,61.9,High
+1209,Male,High School,11.4,84.7,8,1,44.5,Medium
+1210,Male,Master,5.5,92.8,10,0,53.2,Medium
+1211,Male,Bachelor,13.2,74.5,9,0,47.0,Medium
+1212,Female,Master,8.2,84.7,4,1,43.2,Medium
+1213,Female,High School,1.1,78.8,8,0,28.6,Low
+1214,Female,PhD,18.0,92.5,8,1,64.2,High
+1215,Female,Bachelor,16.8,85.3,0,1,69.2,Medium
+1216,Male,High School,12.3,91.9,4,0,47.4,Medium
+1217,Female,Master,13.1,95.9,8,0,47.8,High
+1218,Female,High School,17.4,91.9,6,0,64.2,High
+1219,Male,Master,13.1,87.7,5,0,57.6,Medium
+1220,Male,High School,16.5,75.0,5,0,55.1,Medium
+1221,Male,Bachelor,10.5,85.0,10,1,52.7,Medium
+1222,Female,Bachelor,18.6,79.7,6,0,54.1,Medium
+1223,Male,High School,13.6,81.6,0,0,48.3,Low
+1224,Male,High School,13.0,81.3,3,0,52.6,Medium
+1225,Male,High School,5.6,75.2,0,0,47.3,Low
+1226,Female,Bachelor,13.4,65.4,5,0,49.1,Medium
+1227,Male,High School,7.8,78.3,3,1,46.1,Medium
+1228,Female,Bachelor,8.8,86.9,0,1,42.6,Low
+1229,Female,High School,7.9,71.5,8,0,42.6,Medium
+1230,Male,High School,6.7,85.2,3,1,38.2,Medium
+1231,Male,Bachelor,22.6,100.0,5,0,82.8,High
+1232,Female,High School,18.7,95.2,6,1,61.0,High
+1233,Male,Master,21.6,100.0,7,1,68.4,High
+1234,Male,Master,5.9,88.9,10,1,37.0,Medium
+1235,Female,Bachelor,12.4,96.7,8,0,57.6,Medium
+1236,Female,Bachelor,5.5,77.8,8,0,39.6,Medium
+1237,Male,Master,8.5,78.6,7,0,51.8,Medium
+1238,Female,High School,7.4,57.6,9,1,38.0,Medium
+1239,Male,High School,18.2,96.9,10,0,62.1,High
+1240,Male,High School,10.0,100.0,2,1,59.4,Medium
+1241,Male,Bachelor,17.3,79.5,1,0,51.6,Medium
+1242,Female,High School,15.0,82.5,4,1,51.9,Medium
+1243,Male,Bachelor,23.5,77.5,0,0,66.9,Medium
+1244,Male,PhD,4.6,88.8,2,0,36.8,Low
+1245,Male,Master,18.3,96.2,0,0,71.3,Medium
+1246,Female,Bachelor,17.7,67.6,2,0,65.0,Medium
+1247,Female,High School,7.1,89.1,3,0,44.9,Medium
+1248,Female,Master,17.0,82.2,6,1,55.2,High
+1249,Female,Bachelor,13.7,86.1,4,0,54.3,Medium
+1250,Female,High School,10.9,89.6,4,0,49.3,Medium
+1251,Male,High School,7.9,83.1,0,1,46.4,Low
+1252,Female,Master,8.4,84.0,7,0,39.6,Medium
+1253,Female,Bachelor,22.2,82.9,3,1,68.1,High
+1254,Female,Master,12.0,94.7,9,1,65.4,High
+1255,Male,Master,15.9,89.2,4,0,49.5,Medium
+1256,Female,Bachelor,8.0,87.2,1,0,41.1,Low
+1257,Female,Bachelor,8.1,72.3,0,0,38.8,Low
+1258,Male,Bachelor,17.4,81.2,8,1,61.3,High
+1259,Female,High School,5.3,94.0,1,0,49.9,Low
+1260,Male,Bachelor,9.9,85.4,5,1,53.1,Medium
+1261,Male,Bachelor,12.2,91.6,0,1,46.4,Low
+1262,Male,Bachelor,12.6,100.0,0,0,55.5,Medium
+1263,Male,Master,11.1,95.4,8,1,50.3,Medium
+1264,Male,Bachelor,14.0,85.9,3,1,55.0,Medium
+1265,Female,Bachelor,15.5,79.9,8,0,55.2,Medium
+1266,Male,Bachelor,15.7,59.5,10,1,40.4,Medium
+1267,Male,Bachelor,7.1,83.3,4,1,41.7,Low
+1268,Female,Bachelor,10.6,81.7,6,0,51.5,Medium
+1269,Male,High School,18.0,88.9,0,0,59.4,Medium
+1270,Female,Bachelor,16.5,83.5,5,0,57.1,Medium
+1271,Female,High School,5.1,81.8,7,0,48.9,Medium
+1272,Female,High School,13.8,67.2,0,1,57.5,Low
+1273,Male,Bachelor,2.1,75.6,8,0,22.6,Low
+1274,Male,Bachelor,12.2,89.8,2,1,54.8,Medium
+1275,Male,PhD,21.5,100.0,0,0,86.8,Medium
+1276,Female,Bachelor,7.3,84.0,0,0,46.9,Low
+1277,Male,Bachelor,7.8,88.3,10,1,47.1,Medium
+1278,Male,Bachelor,15.8,94.5,5,1,68.1,High
+1279,Male,Bachelor,4.3,76.9,10,0,38.3,Medium
+1280,Female,High School,8.8,88.7,5,0,52.3,Medium
+1281,Female,High School,15.0,77.6,0,0,52.5,Low
+1282,Male,High School,8.8,93.6,2,0,51.7,Medium
+1283,Male,Bachelor,10.8,86.5,6,0,53.0,Medium
+1284,Male,High School,15.7,88.0,9,0,63.1,High
+1285,Male,High School,14.1,77.2,2,1,49.9,Medium
+1286,Female,High School,13.3,92.1,2,0,54.5,Medium
+1287,Female,PhD,10.3,100.0,2,1,45.8,Medium
+1288,Female,High School,13.9,74.9,6,1,48.8,Medium
+1289,Female,Bachelor,11.4,81.6,3,0,54.5,Medium
+1290,Male,High School,14.3,87.3,3,1,58.7,Medium
+1291,Male,Bachelor,9.5,92.9,2,0,46.4,Low
+1292,Male,High School,11.1,79.4,9,1,38.9,Medium
+1293,Female,High School,7.1,56.7,10,0,32.5,Medium
+1294,Male,Bachelor,11.8,98.6,8,0,61.8,Medium
+1295,Female,High School,7.9,92.6,1,1,46.6,Low
+1296,Female,High School,6.4,67.6,3,0,29.4,Low
+1297,Male,High School,13.3,78.9,7,1,48.6,Medium
+1298,Male,High School,13.1,100.0,5,1,61.2,Medium
+1299,Male,High School,15.9,99.5,6,0,69.9,High
+1300,Female,High School,9.8,94.4,6,0,51.2,Medium
+1301,Male,Master,14.0,83.2,1,0,59.6,Medium
+1302,Female,Bachelor,14.8,85.8,3,1,61.2,Medium
+1303,Male,Bachelor,14.2,83.7,9,1,48.9,High
+1304,Female,High School,7.9,96.3,9,0,56.6,Medium
+1305,Female,Master,12.7,76.2,5,0,51.1,Medium
+1306,Male,High School,13.8,76.9,2,1,45.5,Medium
+1307,Female,High School,12.0,95.1,8,0,64.9,Medium
+1308,Female,Bachelor,1.6,84.6,3,1,35.5,Low
+1309,Male,High School,12.8,98.8,9,1,49.0,High
+1310,Female,High School,23.1,78.3,1,1,62.4,High
+1311,Male,Bachelor,10.2,84.5,5,0,44.3,Medium
+1312,Female,Master,8.4,75.8,0,0,39.4,Low
+1313,Male,Bachelor,13.9,85.1,5,0,52.6,Medium
+1314,Male,Bachelor,13.6,70.2,9,0,47.1,Medium
+1315,Female,PhD,18.0,80.1,0,1,57.5,Medium
+1316,Female,High School,5.7,70.6,7,0,36.3,Low
+1317,Female,High School,15.7,91.9,4,1,63.2,Medium
+1318,Female,High School,15.0,92.2,5,0,55.6,Medium
+1319,Female,Bachelor,11.3,67.7,1,0,49.9,Low
+1320,Male,Bachelor,13.7,98.3,1,0,53.7,Medium
+1321,Female,Master,17.1,100.0,8,1,68.8,High
+1322,Male,Bachelor,16.4,85.5,2,0,66.9,Medium
+1323,Male,Bachelor,6.3,78.6,5,0,40.0,Low
+1324,Female,High School,16.1,100.0,9,1,65.1,High
+1325,Male,Master,11.7,71.8,4,0,41.4,Medium
+1326,Male,PhD,12.4,85.2,3,0,50.1,Medium
+1327,Male,Master,12.4,86.8,9,0,61.1,High
+1328,Male,High School,11.2,98.5,1,0,60.0,Medium
+1329,Female,Bachelor,18.0,88.6,7,1,64.5,High
+1330,Male,High School,11.6,80.0,9,0,39.7,Medium
+1331,Female,High School,6.4,75.5,6,0,36.2,Low
+1332,Female,High School,10.0,81.6,10,0,56.4,Medium
+1333,Male,Bachelor,12.9,74.9,1,1,51.4,Low
+1334,Female,Bachelor,18.1,85.5,5,0,64.1,High
+1335,Female,High School,15.0,79.4,7,1,55.1,Medium
+1336,Female,High School,7.7,70.1,6,0,36.6,Low
+1337,Male,Bachelor,24.4,97.6,0,0,77.3,High
+1338,Female,High School,13.3,80.0,4,1,44.3,Medium
+1339,Female,High School,18.4,72.3,1,0,48.5,Medium
+1340,Female,Bachelor,11.2,83.3,5,1,46.5,Medium
+1341,Male,Bachelor,14.7,85.7,6,0,57.2,Medium
+1342,Female,High School,16.2,67.5,6,1,43.5,Medium
+1343,Male,High School,18.1,88.3,2,0,63.1,Medium
+1344,Male,High School,17.3,74.5,6,1,50.8,Medium
+1345,Male,Master,16.4,100.0,4,0,60.2,Medium
+1346,Male,Bachelor,10.4,90.2,7,0,58.2,Medium
+1347,Male,Bachelor,9.1,81.0,7,0,46.3,Medium
+1348,Male,High School,13.7,77.5,6,0,47.0,Medium
+1349,Female,Bachelor,16.7,84.0,5,0,59.5,Medium
+1350,Male,High School,10.9,91.1,1,0,45.4,Low
+1351,Female,Bachelor,17.3,84.7,5,0,61.8,Medium
+1352,Female,Master,19.3,82.8,10,1,67.6,High
+1353,Male,Bachelor,7.4,85.6,8,1,48.7,Medium
+1354,Female,Master,7.8,79.0,1,1,54.1,Low
+1355,Female,Bachelor,11.3,81.6,0,0,39.9,Low
+1356,Female,High School,13.5,64.1,10,0,46.6,Medium
+1357,Female,Master,9.4,94.7,4,0,45.2,Medium
+1358,Male,High School,18.8,88.0,10,1,62.5,High
+1359,Female,Bachelor,14.1,77.3,5,0,52.1,Medium
+1360,Male,High School,12.2,100.0,2,0,69.7,Medium
+1361,Female,High School,4.8,85.9,7,1,41.3,Medium
+1362,Female,Bachelor,5.4,74.6,6,0,37.6,Low
+1363,Male,High School,13.4,93.6,1,1,62.6,Medium
+1364,Female,Bachelor,1.3,89.0,6,1,37.3,Low
+1365,Female,Bachelor,17.1,88.9,0,0,70.3,Medium
+1366,Female,High School,11.2,80.7,8,0,52.5,Medium
+1367,Male,High School,28.2,89.5,6,0,82.3,High
+1368,Female,Bachelor,23.5,82.4,5,1,58.9,High
+1369,Male,High School,11.1,90.6,1,0,62.8,Medium
+1370,Female,Bachelor,11.5,66.0,2,1,40.3,Low
+1371,Male,Bachelor,17.0,80.7,0,0,57.7,Medium
+1372,Male,Master,20.5,100.0,9,0,67.5,High
+1373,Female,Bachelor,3.8,77.3,4,0,31.5,Low
+1374,Female,Bachelor,3.1,79.0,8,1,30.2,Low
+1375,Male,Bachelor,8.9,80.5,5,0,46.1,Medium
+1376,Male,High School,14.9,72.9,4,1,41.7,Medium
+1377,Female,High School,14.5,62.9,2,0,45.7,Low
+1378,Male,Bachelor,17.3,82.7,4,0,64.4,Medium
+1379,Female,Bachelor,6.0,86.4,7,1,46.7,Medium
+1380,Female,Bachelor,0.4,84.5,1,1,36.6,Low
+1381,Female,Master,16.3,83.6,4,0,53.4,Medium
+1382,Female,Master,7.9,85.4,5,0,38.0,Low
+1383,Male,Master,1.9,95.2,9,1,46.2,Medium
+1384,Female,Bachelor,12.7,83.1,7,0,50.1,Medium
+1385,Male,High School,16.0,79.3,7,0,55.2,Medium
+1386,Female,Bachelor,11.4,82.2,4,1,49.0,Medium
+1387,Male,High School,9.7,90.8,8,0,54.2,Medium
+1388,Female,Bachelor,11.2,99.1,3,0,65.7,Medium
+1389,Male,Bachelor,10.1,78.7,8,0,54.0,Medium
+1390,Male,Bachelor,5.3,86.0,10,1,30.6,Medium
+1391,Female,High School,8.4,88.4,6,1,46.5,Medium
+1392,Female,High School,14.6,75.1,5,0,45.2,Medium
+1393,Female,Bachelor,13.6,85.2,3,0,59.2,Medium
+1394,Female,High School,12.8,70.3,1,0,47.4,Medium
+1395,Male,Master,7.0,67.3,7,1,40.5,Medium
+1396,Female,High School,11.1,88.7,5,0,50.1,Medium
+1397,Male,High School,1.1,81.2,2,1,28.9,Low
+1398,Male,High School,12.9,87.0,6,0,49.8,Medium
+1399,Female,Bachelor,19.1,84.8,9,1,55.0,High
+1400,Male,Bachelor,4.6,75.2,6,0,30.7,Low
+1401,Male,High School,9.1,84.5,5,1,40.1,Medium
+1402,Male,High School,13.6,72.7,1,0,44.4,Low
+1403,Male,Bachelor,18.3,98.9,7,0,61.5,High
+1404,Female,High School,9.8,71.4,0,1,45.2,Low
+1405,Female,Bachelor,8.5,83.0,0,1,47.8,Low
+1406,Female,Bachelor,2.2,74.6,5,0,35.0,Low
+1407,Female,High School,12.5,90.7,4,1,60.9,Medium
+1408,Male,High School,22.2,81.7,8,0,65.6,High
+1409,Male,PhD,13.4,79.8,6,1,48.1,Medium
+1410,Female,Bachelor,11.9,93.5,1,0,66.3,Medium
+1411,Female,Bachelor,13.6,85.3,6,0,59.1,Medium
+1412,Female,High School,11.9,90.2,2,0,54.7,Medium
+1413,Male,Bachelor,7.9,75.2,0,0,42.4,Low
+1414,Female,High School,16.1,71.0,10,1,54.0,High
+1415,Female,Bachelor,13.1,86.1,7,0,53.1,Medium
+1416,Female,PhD,12.1,81.8,2,0,51.5,Medium
+1417,Male,High School,7.1,91.3,10,0,49.7,Medium
+1418,Male,High School,18.5,84.2,7,1,57.8,High
+1419,Male,High School,15.3,87.1,6,0,49.6,Medium
+1420,Male,High School,9.2,68.8,1,0,31.0,Low
+1421,Male,High School,17.0,100.0,0,1,70.0,High
+1422,Male,High School,9.5,83.4,6,0,39.7,Medium
+1423,Male,Bachelor,8.1,92.0,0,1,51.3,Low
+1424,Male,Bachelor,8.2,76.6,5,1,37.2,Medium
+1425,Female,High School,3.1,88.1,10,0,34.3,Medium
+1426,Female,Master,14.4,72.0,9,1,46.7,Medium
+1427,Male,High School,2.8,89.5,10,1,41.0,Medium
+1428,Male,PhD,5.9,81.4,9,0,34.9,Medium
+1429,Female,High School,1.6,85.3,7,0,33.5,Low
+1430,Male,Master,11.6,92.0,6,1,54.0,Medium
+1431,Male,Bachelor,11.2,72.7,3,0,39.9,Low
+1432,Male,Master,10.4,78.2,0,1,54.0,Low
+1433,Female,PhD,6.8,89.6,0,0,37.4,Low
+1434,Female,High School,6.1,100.0,3,0,48.1,Low
+1435,Female,PhD,14.3,83.6,4,0,61.3,Medium
+1436,Female,High School,9.2,90.9,6,0,43.6,Medium
+1437,Female,High School,13.6,83.9,3,0,53.4,Medium
+1438,Male,High School,7.6,100.0,9,1,52.0,Medium
+1439,Female,Bachelor,12.9,67.5,0,1,42.3,Low
+1440,Male,High School,18.5,85.9,10,1,61.8,High
+1441,Male,Bachelor,14.9,68.7,9,1,52.7,High
+1442,Female,Bachelor,9.9,59.9,6,1,36.5,Medium
+1443,Female,Bachelor,13.3,88.0,1,0,58.9,Medium
+1444,Male,Master,10.8,86.4,10,1,52.7,High
+1445,Male,Bachelor,12.0,82.2,1,0,48.0,Medium
+1446,Male,High School,10.4,83.9,7,1,54.8,Medium
+1447,Female,High School,11.2,100.0,9,1,53.1,High
+1448,Female,High School,13.1,82.4,9,0,56.8,High
+1449,Female,High School,7.0,90.1,9,0,43.0,Medium
+1450,Female,High School,6.9,78.5,4,0,40.2,Low
+1451,Female,High School,5.1,88.0,9,0,42.0,Medium
+1452,Male,PhD,4.0,82.6,1,0,40.7,Low
+1453,Female,Bachelor,5.9,80.9,4,0,29.2,Low
+1454,Male,High School,12.8,100.0,7,0,61.5,Medium
+1455,Male,Bachelor,7.5,96.8,5,1,49.5,Medium
+1456,Male,High School,14.6,86.4,2,1,57.8,Medium
+1457,Female,Bachelor,12.2,62.0,7,1,45.6,Medium
+1458,Female,Bachelor,2.2,81.4,8,1,37.8,Medium
+1459,Female,Bachelor,15.3,100.0,4,0,52.9,Medium
+1460,Male,Bachelor,16.1,82.7,1,0,51.9,Medium
+1461,Male,PhD,7.0,96.0,1,1,50.6,Low
+1462,Male,Master,14.1,99.4,6,1,61.9,High
+1463,Male,Bachelor,7.7,87.2,0,0,42.5,Low
+1464,Male,Bachelor,12.5,76.6,9,1,53.1,High
+1465,Male,Bachelor,5.7,60.6,1,1,31.5,Low
+1466,Female,High School,3.0,91.8,9,1,45.7,Medium
+1467,Female,High School,10.1,76.9,3,1,51.9,Medium
+1468,Female,High School,11.4,86.8,0,0,53.2,Low
+1469,Female,Bachelor,10.0,72.5,3,1,46.8,Medium
+1470,Male,Bachelor,6.1,82.3,10,1,39.0,Medium
+1471,Male,High School,10.0,85.3,9,0,53.6,High
+1472,Female,PhD,13.3,87.7,4,1,56.2,Medium
+1473,Male,Master,11.8,73.9,8,0,45.7,Medium
+1474,Female,Bachelor,12.9,97.0,0,0,52.1,Medium
+1475,Female,Bachelor,8.6,79.0,4,0,42.2,Low
+1476,Female,Master,17.9,68.3,1,0,48.5,Medium
+1477,Male,High School,6.1,83.9,8,0,46.6,Medium
+1478,Female,Bachelor,14.4,85.3,5,1,61.9,Medium
+1479,Female,High School,17.9,86.6,1,0,66.1,Medium
+1480,Female,Bachelor,14.4,98.6,2,0,73.5,Medium
+1481,Male,High School,11.0,82.6,7,0,47.2,Medium
+1482,Male,Master,9.4,83.8,0,0,50.5,Low
+1483,Female,Master,17.2,74.0,2,1,49.5,Medium
+1484,Male,High School,4.9,93.2,9,1,43.6,Medium
+1485,Male,Bachelor,7.1,86.8,0,1,38.1,Low
+1486,Male,PhD,10.0,80.8,10,1,50.2,Medium
+1487,Male,Bachelor,18.2,66.0,10,0,51.9,High
+1488,Male,Master,13.9,99.4,7,1,50.4,Medium
+1489,Male,Bachelor,7.2,72.7,0,1,36.4,Low
+1490,Male,High School,10.4,79.1,4,0,56.3,Medium
+1491,Male,High School,8.9,88.6,3,1,50.9,Medium
+1492,Male,High School,8.5,73.0,6,1,45.7,Medium
+1493,Male,Bachelor,16.9,70.1,4,1,54.0,Medium
+1494,Female,High School,5.1,63.8,7,0,32.3,Low
+1495,Female,Bachelor,20.0,92.2,10,1,67.0,High
+1496,Male,Bachelor,16.1,79.5,0,0,57.3,Medium
+1497,Female,Bachelor,17.5,100.0,4,0,60.7,High
+1498,Female,Master,9.7,75.1,3,0,48.4,Medium
+1499,Male,PhD,11.3,75.8,2,0,52.8,Medium
+1500,Male,Bachelor,4.8,79.3,4,0,38.0,Low
+1501,Male,Master,9.4,87.4,9,0,46.4,Medium
+1502,Female,Bachelor,14.5,80.3,2,1,50.1,Medium
+1503,Female,Bachelor,18.5,91.1,7,1,73.0,High
+1504,Male,PhD,6.5,75.2,2,1,37.5,Low
+1505,Male,High School,10.2,71.2,0,0,47.0,Low
+1506,Male,High School,11.2,67.0,8,0,42.7,Medium
+1507,Female,Master,5.0,62.8,8,1,31.4,Low
+1508,Female,Bachelor,15.0,79.8,5,0,50.5,Medium
+1509,Female,Master,8.4,82.0,9,1,40.5,Medium
+1510,Female,Master,11.0,78.7,0,1,51.7,Low
+1511,Male,High School,9.7,97.4,7,0,48.6,Medium
+1512,Male,Master,8.1,97.3,1,1,53.3,Low
+1513,Male,Bachelor,12.0,81.7,8,1,51.1,Medium
+1514,Male,Bachelor,10.9,67.1,7,0,47.0,Medium
+1515,Female,Bachelor,10.1,79.3,2,0,43.9,Low
+1516,Female,Master,8.4,79.0,4,0,49.5,Low
+1517,Male,High School,13.6,78.4,8,0,51.1,Medium
+1518,Male,Bachelor,20.3,78.0,0,0,74.6,Medium
+1519,Female,Bachelor,12.7,78.5,8,0,42.4,Medium
+1520,Male,Bachelor,17.0,81.1,3,0,70.1,Medium
+1521,Female,Bachelor,5.0,78.6,3,1,38.4,Low
+1522,Male,High School,12.8,87.1,3,0,55.1,Medium
+1523,Male,High School,6.5,88.6,9,0,42.2,Medium
+1524,Male,High School,4.6,75.9,8,0,29.4,Low
+1525,Male,Master,8.3,97.7,5,0,48.9,Medium
+1526,Male,High School,18.0,75.2,10,0,55.2,High
+1527,Male,High School,16.8,68.8,7,0,53.6,Medium
+1528,Male,PhD,13.2,88.8,3,0,61.0,Medium
+1529,Female,High School,4.3,76.8,2,1,38.2,Low
+1530,Female,PhD,11.0,88.2,0,1,52.9,Low
+1531,Female,Bachelor,13.5,61.0,9,0,46.6,Medium
+1532,Female,Master,12.9,98.9,6,0,50.1,Medium
+1533,Female,High School,2.8,91.7,3,1,32.5,Low
+1534,Male,High School,7.5,70.0,7,1,31.8,Medium
+1535,Male,Bachelor,11.7,70.2,2,0,43.7,Low
+1536,Female,Master,14.7,100.0,0,1,52.7,Medium
+1537,Male,Bachelor,1.0,77.6,4,0,29.1,Low
+1538,Female,High School,11.2,76.7,1,0,40.6,Low
+1539,Female,Bachelor,12.7,62.3,2,1,46.4,Medium
+1540,Male,Bachelor,16.2,81.5,5,1,59.2,Medium
+1541,Male,Bachelor,15.5,82.7,2,1,54.8,Medium
+1542,Male,Bachelor,14.9,92.2,2,0,49.7,Medium
+1543,Female,Master,8.0,71.0,5,0,39.2,Low
+1544,Male,Bachelor,2.5,69.8,4,0,33.3,Low
+1545,Female,High School,10.0,89.5,9,0,54.9,High
+1546,Female,Bachelor,17.0,95.1,8,1,72.3,High
+1547,Female,High School,19.0,69.3,0,1,61.8,Medium
+1548,Male,Bachelor,15.6,95.8,2,1,62.5,Medium
+1549,Male,Bachelor,14.1,85.4,2,1,53.9,Medium
+1550,Female,High School,13.9,95.9,10,0,55.5,High
+1551,Male,High School,9.2,84.3,5,1,54.3,Medium
+1552,Male,High School,11.3,59.8,7,1,41.8,Medium
+1553,Male,Master,20.3,83.5,2,0,67.1,Medium
+1554,Female,Master,7.3,95.6,2,1,46.2,Low
+1555,Female,High School,20.1,76.1,5,0,54.3,High
+1556,Male,PhD,10.4,81.1,7,1,46.0,Medium
+1557,Female,Bachelor,18.6,83.2,5,0,59.7,Medium
+1558,Male,High School,5.0,56.0,9,0,30.8,Low
+1559,Male,High School,14.9,100.0,2,1,58.7,Medium
+1560,Male,Bachelor,8.3,76.0,3,1,43.0,Medium
+1561,Male,Bachelor,4.9,90.1,0,0,49.3,Low
+1562,Female,Bachelor,13.1,84.1,7,0,44.9,Medium
+1563,Female,High School,17.0,97.6,3,0,54.0,Medium
+1564,Female,High School,7.8,89.1,5,0,53.5,Medium
+1565,Male,Bachelor,4.5,82.7,10,1,32.5,Medium
+1566,Male,High School,11.5,76.1,2,1,45.8,Medium
+1567,Male,High School,11.6,93.0,10,0,57.6,High
+1568,Female,High School,14.7,66.3,10,1,48.3,Medium
+1569,Male,Master,16.7,91.5,5,0,61.3,High
+1570,Female,Master,11.7,74.0,10,1,47.5,Medium
+1571,Female,Bachelor,21.3,97.5,8,0,83.5,High
+1572,Female,Master,13.1,86.6,8,0,63.2,High
+1573,Female,High School,10.3,91.4,9,1,48.5,Medium
+1574,Female,Bachelor,3.9,85.8,2,0,45.5,Low
+1575,Female,High School,10.7,67.5,2,1,45.5,Low
+1576,Male,Bachelor,10.3,76.4,3,1,45.9,Medium
+1577,Male,PhD,16.8,91.7,6,0,57.4,Medium
+1578,Female,Bachelor,14.3,86.7,2,0,58.4,Medium
+1579,Female,High School,6.1,96.8,9,1,46.3,Medium
+1580,Male,Bachelor,12.9,89.0,7,1,53.0,Medium
+1581,Female,High School,15.4,75.3,10,0,49.3,High
+1582,Female,Master,19.6,77.0,7,0,65.3,High
+1583,Male,Bachelor,16.4,86.0,5,1,55.2,High
+1584,Female,Bachelor,15.8,61.9,3,0,44.6,Medium
+1585,Female,Bachelor,12.3,100.0,10,0,62.3,High
+1586,Female,Bachelor,13.9,89.4,10,0,56.0,High
+1587,Male,High School,18.2,97.3,4,1,65.7,High
+1588,Male,Bachelor,5.3,69.2,1,1,40.8,Low
+1589,Male,High School,10.3,97.4,5,1,60.9,Medium
+1590,Female,Bachelor,8.1,100.0,2,1,41.6,Medium
+1591,Female,Master,13.9,71.8,5,1,48.9,Medium
+1592,Male,Master,18.2,92.7,4,0,57.3,Medium
+1593,Female,Bachelor,9.0,85.0,1,1,45.6,Low
+1594,Female,Bachelor,0.0,69.6,4,0,27.9,Low
+1595,Female,High School,9.9,89.9,4,1,49.1,Medium
+1596,Female,Bachelor,16.6,93.3,8,0,57.1,High
+1597,Female,High School,14.7,79.0,10,0,48.2,Medium
+1598,Male,Bachelor,14.1,96.7,7,1,63.5,High
+1599,Female,High School,10.6,68.3,6,1,50.9,Medium
+1600,Male,High School,5.6,70.1,2,0,26.1,Low
+1601,Female,Bachelor,14.6,86.4,9,1,54.8,High
+1602,Male,High School,7.8,85.3,3,0,49.5,Medium
+1603,Female,Bachelor,22.9,77.8,5,0,65.4,High
+1604,Male,High School,14.9,93.1,2,1,53.9,Medium
+1605,Female,High School,9.1,90.3,10,0,47.4,Medium
+1606,Male,Bachelor,8.9,93.6,8,1,52.4,Medium
+1607,Female,High School,11.5,83.8,7,0,49.3,Medium
+1608,Male,High School,10.8,91.0,5,1,52.4,Medium
+1609,Female,Bachelor,17.6,80.5,3,1,58.5,Medium
+1610,Male,High School,12.9,100.0,6,0,56.8,Medium
+1611,Male,Master,8.3,76.9,10,0,47.3,Medium
+1612,Female,High School,21.5,100.0,2,1,69.8,High
+1613,Female,High School,12.2,85.3,9,1,47.5,Medium
+1614,Male,Bachelor,15.8,71.2,7,0,63.4,High
+1615,Female,High School,9.0,98.7,0,0,52.5,Low
+1616,Male,High School,13.8,86.3,2,0,42.2,Medium
+1617,Male,High School,13.6,93.5,10,0,64.0,High
+1618,Male,High School,2.6,97.2,4,0,49.0,Low
+1619,Female,Master,22.1,88.4,4,0,70.8,High
+1620,Male,High School,18.5,79.1,9,1,62.5,High
+1621,Male,Bachelor,10.0,94.8,1,1,63.7,Low
+1622,Female,Master,6.5,85.0,9,1,38.9,Medium
+1623,Female,Bachelor,13.7,91.9,7,1,58.0,High
+1624,Female,Master,12.4,63.5,4,1,53.9,Medium
+1625,Female,High School,13.8,89.5,6,0,67.4,Medium
+1626,Male,PhD,13.0,78.6,6,1,49.1,Medium
+1627,Male,High School,14.5,100.0,4,1,71.8,Medium
+1628,Male,Bachelor,19.2,91.2,7,1,69.4,High
+1629,Male,Bachelor,14.8,87.4,8,0,64.7,High
+1630,Female,High School,6.8,89.9,3,1,49.9,Medium
+1631,Male,Bachelor,18.8,75.0,3,1,59.8,Medium
+1632,Male,Bachelor,20.2,100.0,7,1,81.4,High
+1633,Female,High School,27.8,100.0,0,0,79.0,High
+1634,Male,High School,6.4,88.9,3,1,54.7,Medium
+1635,Male,Bachelor,13.2,100.0,5,1,70.1,Medium
+1636,Male,Bachelor,1.6,79.3,3,0,40.9,Low
+1637,Male,PhD,14.8,77.0,5,1,52.6,Medium
+1638,Male,Bachelor,9.3,85.4,4,0,49.3,Medium
+1639,Male,PhD,21.6,89.3,8,1,61.8,High
+1640,Female,Bachelor,8.1,81.1,9,1,42.4,Medium
+1641,Female,High School,3.6,90.4,8,0,44.6,Medium
+1642,Male,High School,9.6,88.1,3,0,42.6,Low
+1643,Male,Bachelor,2.1,75.0,3,1,31.7,Low
+1644,Female,Bachelor,15.8,90.2,7,0,69.4,High
+1645,Male,High School,1.7,93.6,9,0,39.2,Low
+1646,Male,High School,12.1,86.7,3,1,58.1,Medium
+1647,Male,PhD,1.6,96.5,1,0,43.9,Low
+1648,Female,Bachelor,10.4,72.8,1,0,43.2,Low
+1649,Male,Bachelor,20.2,89.7,0,1,65.4,Medium
+1650,Female,Bachelor,13.8,73.3,4,0,50.9,Medium
+1651,Male,High School,7.7,73.9,5,0,30.8,Low
+1652,Female,High School,11.8,78.7,8,1,54.0,Medium
+1653,Female,High School,12.1,75.6,4,1,47.8,Medium
+1654,Male,High School,14.4,79.5,5,1,58.3,Medium
+1655,Female,Bachelor,5.2,82.9,5,1,42.8,Low
+1656,Male,Bachelor,15.0,93.4,2,1,59.0,Medium
+1657,Female,Master,0.0,81.8,3,0,33.7,Low
+1658,Male,Master,8.9,69.1,0,0,41.9,Low
+1659,Male,High School,9.6,96.4,3,0,60.3,Medium
+1660,Female,Bachelor,15.2,76.6,0,0,53.7,Medium
+1661,Male,Bachelor,12.1,84.4,4,1,53.4,Medium
+1662,Male,Master,5.0,89.5,10,1,36.9,Medium
+1663,Female,High School,7.1,87.0,10,0,45.2,Medium
+1664,Male,Bachelor,13.0,95.9,7,1,65.1,High
+1665,Male,Bachelor,11.6,89.8,7,0,55.5,Medium
+1666,Female,High School,9.1,76.4,4,0,38.8,Low
+1667,Female,High School,9.6,100.0,9,1,49.5,Medium
+1668,Male,Bachelor,15.5,86.9,1,0,54.3,Medium
+1669,Male,Bachelor,9.4,83.5,5,0,52.5,Medium
+1670,Female,High School,11.6,94.6,0,0,59.6,Low
+1671,Female,Bachelor,22.8,87.5,6,0,52.0,High
+1672,Male,High School,4.9,89.0,10,1,42.5,Medium
+1673,Female,Bachelor,2.7,100.0,3,1,44.8,Low
+1674,Male,High School,15.9,82.2,4,0,52.0,Medium
+1675,Male,Master,8.6,81.8,5,0,43.7,Low
+1676,Male,High School,10.4,86.2,10,1,56.7,High
+1677,Male,High School,8.1,95.7,0,1,52.5,Low
+1678,Male,High School,10.7,69.9,8,0,41.5,Medium
+1679,Female,High School,20.0,65.3,9,0,55.2,High
+1680,Female,Bachelor,16.0,79.1,3,1,54.5,Medium
+1681,Female,High School,16.3,68.7,7,1,53.3,Medium
+1682,Female,Master,4.9,80.8,4,0,32.5,Low
+1683,Male,High School,6.2,90.0,10,1,42.0,Medium
+1684,Male,High School,0.0,76.1,7,0,35.6,Low
+1685,Male,High School,8.0,70.7,0,0,39.9,Low
+1686,Male,High School,16.8,85.7,7,0,55.2,High
+1687,Female,High School,14.6,93.6,10,1,55.3,High
+1688,Male,Bachelor,10.9,68.1,10,0,47.2,Medium
+1689,Male,Bachelor,11.9,93.2,3,0,52.5,Medium
+1690,Female,Bachelor,8.6,93.2,1,0,52.7,Low
+1691,Female,Bachelor,13.0,94.5,10,1,54.2,High
+1692,Female,Bachelor,15.8,97.2,5,0,57.0,Medium
+1693,Female,High School,3.9,100.0,1,0,47.1,Low
+1694,Male,Bachelor,13.5,81.4,4,0,52.3,Medium
+1695,Male,PhD,16.7,86.1,1,1,62.9,Medium
+1696,Female,Bachelor,9.9,80.8,2,0,51.6,Medium
+1697,Male,Bachelor,15.5,85.0,10,0,55.5,Medium
+1698,Male,High School,26.1,100.0,5,0,80.9,High
+1699,Male,Bachelor,11.5,71.5,0,1,43.9,Low
+1700,Female,Bachelor,14.0,76.4,5,0,54.7,Medium
+1701,Male,Bachelor,8.3,98.8,2,1,53.1,Medium
+1702,Female,PhD,12.9,95.2,6,1,54.3,Medium
+1703,Male,High School,14.3,81.4,1,1,50.5,Low
+1704,Male,High School,13.0,93.5,5,0,58.2,Medium
+1705,Male,Bachelor,6.9,88.4,7,1,51.5,Medium
+1706,Female,Master,13.0,100.0,0,0,64.1,Medium
+1707,Male,High School,19.3,85.7,10,0,58.5,High
+1708,Female,High School,14.2,95.3,10,1,55.3,High
+1709,Female,High School,16.8,100.0,8,0,61.8,High
+1710,Female,High School,10.8,91.0,4,0,49.6,Medium
+1711,Male,Bachelor,15.7,85.5,4,0,48.7,Medium
+1712,Male,Bachelor,13.4,92.2,4,1,60.9,Medium
+1713,Male,High School,7.2,81.3,5,0,41.1,Low
+1714,Male,High School,13.6,100.0,1,1,62.7,Medium
+1715,Female,High School,7.0,86.8,5,1,43.7,Medium
+1716,Female,High School,8.8,82.3,10,1,46.0,Medium
+1717,Female,Bachelor,12.9,76.6,3,0,46.7,Medium
+1718,Male,PhD,13.5,96.0,7,1,58.5,High
+1719,Female,Master,6.1,93.7,10,0,42.2,Medium
+1720,Male,High School,17.3,80.0,8,0,57.8,High
+1721,Female,Master,14.9,90.8,8,0,65.9,High
+1722,Male,Bachelor,8.5,69.9,7,0,43.3,Medium
+1723,Male,Bachelor,4.3,86.8,2,0,42.7,Medium
+1724,Female,Bachelor,11.3,89.5,9,0,46.1,Medium
+1725,Female,High School,9.8,100.0,10,0,57.5,High
+1726,Female,High School,12.6,77.3,10,0,53.1,High
+1727,Female,High School,10.2,72.2,3,1,45.5,Medium
+1728,Male,High School,2.0,76.0,0,1,34.4,Low
+1729,Female,High School,10.1,71.6,8,1,43.0,Medium
+1730,Female,Bachelor,10.5,98.4,4,0,58.3,Medium
+1731,Female,Bachelor,15.2,100.0,5,0,69.7,High
+1732,Male,Bachelor,8.5,88.2,2,1,49.7,Low
+1733,Male,High School,20.4,97.2,10,0,64.6,High
+1734,Female,PhD,2.4,86.3,9,1,33.7,Low
+1735,Male,Master,18.6,84.0,7,0,65.1,Medium
+1736,Female,Bachelor,10.9,81.7,6,1,44.2,Medium
+1737,Male,PhD,16.3,81.9,0,0,58.2,Medium
+1738,Male,Bachelor,12.4,69.5,9,0,44.7,Medium
+1739,Male,PhD,17.7,87.6,4,1,56.2,Medium
+1740,Male,High School,10.1,84.6,9,0,53.1,High
+1741,Female,High School,6.5,92.5,8,0,50.3,Medium
+1742,Female,High School,19.1,85.9,10,0,56.2,High
+1743,Female,High School,11.4,83.4,5,1,52.9,Medium
+1744,Male,High School,13.1,76.3,7,0,51.9,Medium
+1745,Female,Bachelor,18.2,85.7,9,0,65.7,High
+1746,Female,Bachelor,6.8,92.4,0,0,48.0,Low
+1747,Female,Bachelor,15.0,73.6,9,0,59.0,High
+1748,Male,High School,9.1,85.9,10,1,47.3,Medium
+1749,Male,Master,11.3,87.3,6,0,50.6,Medium
+1750,Male,Bachelor,12.4,77.8,2,0,44.8,Medium
+1751,Female,High School,4.5,79.1,8,0,33.7,Medium
+1752,Female,Bachelor,8.1,87.3,5,0,42.0,Medium
+1753,Female,High School,18.8,73.7,4,0,58.7,Medium
+1754,Male,High School,16.4,88.5,7,0,58.7,High
+1755,Male,Master,11.7,76.0,7,0,49.6,Medium
+1756,Female,High School,13.2,95.6,2,1,52.0,Medium
+1757,Male,Bachelor,10.5,100.0,1,0,51.5,Medium
+1758,Male,Master,18.8,76.4,1,1,54.4,Medium
+1759,Male,Bachelor,11.0,90.3,4,0,63.5,Medium
+1760,Male,High School,13.2,77.7,9,0,50.0,Medium
+1761,Female,High School,17.7,95.4,6,0,64.4,High
+1762,Male,High School,8.1,72.3,7,0,40.7,Medium
+1763,Male,Bachelor,19.8,89.8,9,1,73.4,High
+1764,Male,Bachelor,4.3,76.3,7,1,29.0,Medium
+1765,Male,High School,20.1,82.9,7,1,63.1,High
+1766,Female,PhD,10.1,74.7,9,1,37.0,Medium
+1767,Female,Bachelor,10.8,93.2,10,0,41.6,Medium
+1768,Male,High School,2.5,76.6,2,0,30.8,Low
+1769,Male,Bachelor,9.7,90.5,10,1,52.9,High
+1770,Male,Bachelor,6.8,81.6,1,1,38.8,Low
+1771,Male,High School,9.0,83.9,3,0,49.0,Low
+1772,Male,High School,11.3,86.5,0,0,52.1,Low
+1773,Male,Master,16.8,77.4,2,0,55.4,Medium
+1774,Female,Bachelor,13.0,87.1,10,1,60.7,High
+1775,Male,Bachelor,13.5,100.0,8,0,57.3,High
+1776,Female,Bachelor,6.5,77.2,6,0,42.6,Medium
+1777,Female,High School,7.6,96.7,6,0,41.1,Medium
+1778,Male,High School,21.0,100.0,0,1,72.0,Medium
+1779,Female,Bachelor,8.3,76.8,6,0,41.9,Medium
+1780,Female,High School,20.3,70.4,9,1,52.7,High
+1781,Female,High School,10.8,88.0,6,0,53.4,Medium
+1782,Female,Master,12.0,79.5,3,1,46.1,Medium
+1783,Female,PhD,17.4,100.0,6,1,74.7,High
+1784,Female,Bachelor,18.4,85.3,7,0,49.5,High
+1785,Male,Master,11.4,77.0,2,0,49.2,Low
+1786,Female,High School,10.1,73.5,9,0,44.7,Medium
+1787,Female,PhD,11.7,95.9,1,0,54.5,Medium
+1788,Female,High School,13.7,79.3,6,1,49.6,Medium
+1789,Male,PhD,16.5,85.4,4,0,59.2,Medium
+1790,Female,PhD,12.0,94.6,4,0,61.2,Medium
+1791,Male,Bachelor,15.1,80.2,4,0,46.3,Medium
+1792,Female,PhD,20.2,84.5,6,0,60.1,High
+1793,Male,Bachelor,13.9,84.8,8,1,49.5,Medium
+1794,Male,High School,13.6,91.8,10,0,51.6,High
+1795,Female,Bachelor,4.4,90.9,7,1,44.7,Medium
+1796,Female,Bachelor,0.0,82.8,5,1,36.1,Low
+1797,Male,High School,13.9,85.6,6,0,60.5,Medium
+1798,Female,Bachelor,11.5,81.3,8,0,52.8,Medium
+1799,Male,PhD,9.4,70.2,10,1,45.7,Medium
+1800,Male,High School,13.2,87.6,5,0,47.8,Medium
+1801,Male,Bachelor,11.7,100.0,0,0,65.0,Medium
+1802,Male,Master,17.6,76.2,3,0,55.9,Medium
+1803,Male,Master,12.4,77.3,7,0,54.7,Medium
+1804,Female,PhD,8.3,76.3,6,1,36.0,Low
+1805,Male,Bachelor,17.0,92.2,2,0,61.1,Medium
+1806,Male,PhD,10.9,89.5,9,0,56.9,High
+1807,Female,Bachelor,14.6,83.4,2,1,55.5,Medium
+1808,Male,High School,9.6,75.8,10,1,41.0,Medium
+1809,Female,Bachelor,8.8,85.9,2,0,54.0,Medium
+1810,Female,Bachelor,12.4,69.4,0,1,40.5,Low
+1811,Female,High School,12.1,86.4,9,0,52.6,Medium
+1812,Male,Bachelor,14.4,93.7,0,1,62.3,Medium
+1813,Male,Bachelor,10.7,72.5,5,0,55.5,Medium
+1814,Male,High School,2.8,69.7,0,0,29.8,Low
+1815,Female,Bachelor,9.8,100.0,4,1,53.4,Medium
+1816,Male,Bachelor,16.0,78.9,3,0,53.3,Medium
+1817,Female,Bachelor,10.5,96.4,4,1,55.5,Medium
+1818,Male,High School,10.8,83.5,6,0,52.5,Medium
+1819,Female,High School,16.9,83.4,5,1,64.2,Medium
+1820,Male,High School,8.4,89.4,8,1,52.2,Medium
+1821,Male,Master,4.3,76.2,5,0,34.4,Low
+1822,Male,High School,11.2,86.3,8,1,55.4,Medium
+1823,Female,Bachelor,9.6,81.2,3,0,47.3,Medium
+1824,Female,High School,7.2,71.8,0,1,43.2,Low
+1825,Male,High School,11.1,88.4,0,0,56.0,Low
+1826,Male,Master,14.5,82.4,9,1,62.8,High
+1827,Female,Bachelor,12.0,83.4,6,0,49.5,Medium
+1828,Female,High School,13.5,72.9,2,0,46.7,Low
+1829,Female,Bachelor,21.1,100.0,1,0,73.8,Medium
+1830,Male,High School,10.3,93.8,5,0,58.8,Medium
+1831,Female,Bachelor,13.4,94.6,5,1,58.2,High
+1832,Male,Bachelor,9.5,81.9,6,1,53.2,Medium
+1833,Female,High School,7.8,67.7,4,1,42.2,Medium
+1834,Male,High School,9.1,100.0,7,0,52.6,Medium
+1835,Female,High School,9.6,84.4,6,0,51.0,Medium
+1836,Female,Master,13.8,77.5,1,0,49.5,Medium
+1837,Female,PhD,23.7,89.2,0,1,72.5,High
+1838,Female,High School,8.4,96.7,8,1,45.9,Medium
+1839,Female,Bachelor,9.9,84.8,4,0,48.4,Medium
+1840,Male,High School,11.7,97.8,10,0,61.6,High
+1841,Female,High School,14.0,95.8,4,0,63.1,High
+1842,Female,Bachelor,13.3,74.2,9,1,52.8,High
+1843,Female,Master,18.4,78.3,3,1,60.4,Medium
+1844,Male,PhD,0.0,94.6,1,1,38.6,Low
+1845,Female,Bachelor,0.1,57.9,4,0,16.9,Low
+1846,Male,High School,9.5,83.5,1,1,46.7,Low
+1847,Female,Bachelor,17.5,70.7,6,1,55.4,Medium
+1848,Female,High School,4.2,80.2,10,0,32.7,Medium
+1849,Male,Bachelor,0.0,82.0,8,0,24.0,Low
+1850,Female,High School,14.9,81.4,8,0,60.5,Medium
+1851,Male,Bachelor,13.2,79.5,10,0,51.9,High
+1852,Male,High School,6.5,74.0,5,1,40.5,Medium
+1853,Female,High School,7.1,100.0,0,0,53.4,Medium
+1854,Male,Master,7.2,100.0,5,1,45.8,Medium
+1855,Female,High School,12.6,73.4,4,0,46.2,Medium
+1856,Female,Bachelor,8.9,100.0,3,0,60.8,Medium
+1857,Male,High School,14.5,81.0,5,0,51.7,Medium
+1858,Male,High School,0.0,86.3,5,0,33.2,Low
+1859,Male,High School,7.7,84.4,5,0,42.0,Medium
+1860,Male,High School,6.4,78.4,1,0,37.2,Low
+1861,Female,Master,10.7,94.8,6,0,59.5,Medium
+1862,Female,High School,9.3,86.3,3,0,36.1,Low
+1863,Male,PhD,16.0,80.2,8,0,53.8,Medium
+1864,Female,Bachelor,2.7,72.0,9,0,34.0,Low
+1865,Female,Bachelor,12.2,76.1,1,0,57.3,Medium
+1866,Female,Bachelor,14.8,68.6,4,1,43.9,Medium
+1867,Female,Bachelor,21.3,85.1,3,0,59.4,High
+1868,Male,Bachelor,9.6,73.0,8,1,39.3,Medium
+1869,Male,High School,13.6,82.3,3,0,56.9,Medium
+1870,Female,High School,3.0,98.7,7,1,44.6,Medium
+1871,Male,Master,0.0,97.0,7,0,31.6,Low
+1872,Male,Master,16.2,84.7,5,1,58.7,Medium
+1873,Male,Master,12.0,84.1,5,0,59.4,Medium
+1874,Female,Bachelor,17.9,100.0,10,1,68.2,High
+1875,Female,Bachelor,5.1,90.2,7,0,44.6,Medium
+1876,Female,Bachelor,14.6,81.7,9,0,55.7,Medium
+1877,Male,Bachelor,21.3,70.7,8,1,62.4,High
+1878,Female,High School,14.1,88.9,4,0,50.4,Medium
+1879,Female,Bachelor,13.4,93.3,10,0,56.2,High
+1880,Male,High School,12.0,78.7,0,0,48.6,Low
+1881,Female,High School,4.1,87.9,0,1,39.0,Low
+1882,Female,Master,18.8,81.4,1,1,64.1,Medium
+1883,Male,High School,8.9,83.2,9,0,43.5,Medium
+1884,Male,High School,14.5,60.1,9,1,44.0,Medium
+1885,Male,High School,4.2,82.8,4,0,33.1,Low
+1886,Female,Master,6.1,94.7,3,0,48.9,Medium
+1887,Female,Bachelor,19.2,78.7,0,1,64.9,Medium
+1888,Female,Bachelor,10.3,85.5,3,1,47.8,Low
+1889,Male,Master,19.3,77.4,3,1,63.9,High
+1890,Male,Master,11.6,88.6,9,0,52.1,High
+1891,Female,High School,2.8,82.8,3,0,24.7,Low
+1892,Female,Bachelor,16.5,75.6,0,0,54.7,Medium
+1893,Male,Bachelor,9.1,98.3,8,0,52.0,Medium
+1894,Male,Bachelor,15.5,94.3,2,0,61.5,Medium
+1895,Male,High School,12.1,79.0,3,1,51.0,Medium
+1896,Male,Master,4.3,90.0,4,1,39.0,Medium
+1897,Female,Bachelor,12.8,90.4,6,0,62.7,High
+1898,Male,High School,23.0,91.4,5,0,70.7,High
+1899,Female,Bachelor,14.5,68.1,4,1,47.9,Medium
+1900,Female,High School,11.7,95.1,7,0,59.3,High
+1901,Female,High School,17.4,79.3,0,1,57.9,Medium
+1902,Male,Bachelor,13.1,81.4,6,0,65.0,Medium
+1903,Male,High School,13.0,100.0,5,0,58.5,Medium
+1904,Male,Bachelor,6.5,88.0,10,1,46.8,Medium
+1905,Male,Bachelor,13.2,81.1,4,0,48.5,Medium
+1906,Female,High School,17.2,62.9,6,0,55.3,Medium
+1907,Male,PhD,7.8,98.9,2,0,52.8,Low
+1908,Male,High School,19.1,71.5,0,1,55.6,Medium
+1909,Female,High School,11.5,75.0,8,1,42.9,Medium
+1910,Male,High School,7.6,81.7,1,0,37.5,Low
+1911,Female,High School,17.0,99.2,9,0,67.2,High
+1912,Female,High School,10.6,92.7,2,1,46.0,Medium
+1913,Female,Bachelor,15.8,83.4,7,0,63.6,High
+1914,Female,PhD,10.5,88.1,9,1,44.7,High
+1915,Female,High School,11.7,79.0,8,0,48.3,Medium
+1916,Female,Bachelor,14.5,86.4,2,0,51.9,Medium
+1917,Female,Bachelor,13.5,85.7,5,1,54.6,Medium
+1918,Female,Master,2.0,94.7,6,0,41.0,Medium
+1919,Male,Bachelor,6.4,94.7,0,1,49.7,Low
+1920,Male,High School,16.6,89.9,6,0,53.3,High
+1921,Male,High School,11.3,81.4,3,0,45.7,Medium
+1922,Male,Bachelor,9.4,92.4,4,1,55.9,Medium
+1923,Female,Master,5.2,84.1,7,0,44.7,Medium
+1924,Male,High School,6.6,74.2,3,1,27.1,Low
+1925,Female,High School,1.9,81.0,3,0,37.1,Low
+1926,Male,Master,11.5,85.8,7,1,46.4,Medium
+1927,Male,Master,9.0,94.1,4,1,48.2,Medium
+1928,Male,PhD,7.2,83.2,5,0,42.9,Medium
+1929,Female,Bachelor,11.7,72.9,10,1,54.4,Medium
+1930,Male,High School,13.8,85.6,4,1,49.7,Medium
+1931,Female,Bachelor,22.5,86.1,0,0,61.1,Medium
+1932,Female,Bachelor,4.4,86.9,6,0,43.7,Medium
+1933,Male,High School,17.8,94.2,5,0,64.2,High
+1934,Male,Bachelor,16.9,95.2,1,0,69.4,Medium
+1935,Male,Bachelor,8.1,79.1,10,0,42.0,Medium
+1936,Female,High School,13.0,78.8,6,0,57.1,Medium
+1937,Male,Bachelor,9.7,74.6,5,0,44.5,Low
+1938,Female,Bachelor,12.9,92.0,4,1,58.8,Medium
+1939,Female,PhD,19.5,99.5,7,0,77.2,High
+1940,Male,High School,15.0,81.8,4,1,54.4,Medium
+1941,Male,High School,14.5,82.6,10,0,60.1,High
+1942,Female,Bachelor,9.8,99.7,1,0,51.6,Medium
+1943,Female,High School,4.6,90.1,5,1,44.0,Low
+1944,Female,Bachelor,11.0,89.4,0,0,45.0,Low
+1945,Male,Bachelor,18.0,73.1,4,0,53.8,Medium
+1946,Female,High School,4.4,91.8,5,0,38.0,Low
+1947,Male,Bachelor,6.7,75.7,6,0,46.5,Medium
+1948,Female,Bachelor,12.6,73.7,1,0,57.1,Medium
+1949,Female,High School,7.1,81.5,0,1,41.5,Low
+1950,Male,Master,8.0,79.1,5,0,39.8,Low
+1951,Female,Master,9.9,82.8,2,1,41.4,Medium
+1952,Male,Bachelor,5.2,70.6,4,1,37.3,Low
+1953,Male,Bachelor,7.1,94.6,10,0,45.5,Medium
+1954,Female,Bachelor,15.5,96.3,1,0,59.0,Medium
+1955,Male,Master,5.5,65.5,0,1,42.6,Low
+1956,Male,Bachelor,4.0,94.8,0,1,42.4,Low
+1957,Female,Bachelor,8.8,76.9,10,0,47.0,Medium
+1958,Male,Master,15.7,93.6,3,0,61.2,Medium
+1959,Male,High School,11.0,84.3,9,0,43.5,Medium
+1960,Male,Master,9.7,85.3,1,0,39.4,Low
+1961,Female,High School,12.2,83.1,0,0,54.0,Low
+1962,Male,High School,3.3,97.1,5,1,52.3,Medium
+1963,Female,High School,14.5,72.6,3,0,52.3,Medium
+1964,Female,PhD,13.9,91.1,9,1,60.4,High
+1965,Male,Master,10.0,96.0,6,1,48.8,Medium
+1966,Male,Bachelor,17.0,92.2,10,0,67.5,High
+1967,Male,Bachelor,6.4,100.0,5,0,54.6,Medium
+1968,Female,Bachelor,17.6,79.7,4,1,54.9,Medium
+1969,Male,Master,12.8,94.6,9,1,59.7,High
+1970,Male,Bachelor,10.3,83.9,1,1,40.2,Low
+1971,Male,High School,11.9,97.3,4,0,60.4,Medium
+1972,Male,High School,11.5,84.9,8,0,48.3,Medium
+1973,Male,Bachelor,18.1,81.1,8,0,53.5,High
+1974,Female,Bachelor,6.6,98.1,1,0,51.2,Medium
+1975,Female,High School,8.2,80.1,6,1,35.5,Medium
+1976,Male,High School,17.2,70.9,9,0,55.8,High
+1977,Male,Master,9.0,79.8,3,1,39.8,Medium
+1978,Male,High School,16.5,91.2,2,0,54.5,Medium
+1979,Male,Bachelor,20.5,98.9,10,1,70.6,High
+1980,Female,PhD,10.0,86.1,0,1,48.6,Low
+1981,Male,Bachelor,15.4,98.2,2,0,69.7,High
+1982,Female,High School,6.2,71.4,10,1,31.5,Medium
+1983,Female,Bachelor,15.8,80.6,8,0,62.8,High
+1984,Male,Master,13.0,82.1,8,0,46.7,Medium
+1985,Female,Bachelor,14.4,83.9,6,1,59.7,Medium
+1986,Female,PhD,8.8,85.8,2,1,53.0,Medium
+1987,Female,High School,3.7,91.9,2,0,43.9,Low
+1988,Female,Bachelor,14.5,80.6,3,0,50.0,Medium
+1989,Male,Bachelor,1.7,86.4,6,1,29.5,Low
+1990,Male,Master,10.4,84.5,6,1,39.7,Medium
+1991,Female,High School,16.7,75.7,1,0,64.6,Medium
+1992,Male,Master,13.0,83.9,4,1,51.5,Medium
+1993,Male,Bachelor,21.7,83.6,6,0,60.5,High
+1994,Male,High School,17.1,83.3,6,0,53.3,High
+1995,Male,High School,8.7,85.3,5,0,48.1,Medium
+1996,Male,Master,12.1,85.8,9,0,50.5,High
+1997,Female,High School,11.8,80.7,9,1,40.3,Medium
+1998,Male,High School,4.1,97.7,7,0,49.5,Medium
+1999,Male,High School,7.3,73.3,2,1,41.9,Low
+2000,Male,Master,9.2,77.8,0,0,54.1,Low
